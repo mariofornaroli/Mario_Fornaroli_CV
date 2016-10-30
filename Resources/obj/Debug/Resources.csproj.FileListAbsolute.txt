@@ -1,0 +1,37 @@
+C:\Tmp\Mario Fornaroli CV Site\Resources\bin\Debug\Resources.dll
+C:\Tmp\Mario Fornaroli CV Site\Resources\bin\Debug\Resources.pdb
+C:\Tmp\Mario Fornaroli CV Site\Resources\bin\Debug\it\Resources.resources.dll
+C:\Tmp\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.Resources.resources
+C:\Tmp\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.Resources.it.resources
+C:\Tmp\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+C:\Tmp\Mario Fornaroli CV Site\Resources\obj\Debug\it\Resources.resources.dll
+C:\Tmp\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.dll
+C:\Tmp\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.pdb
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\bin\Debug\Resources.dll
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\bin\Debug\Resources.pdb
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\bin\Debug\it\Resources.resources.dll
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.Resources.resources
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.Resources.it.resources
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Debug\it\Resources.resources.dll
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.dll
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.pdb
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\20150209\Mario Fornaroli CV Site\Resources\bin\Debug\Resources.dll
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\20150209\Mario Fornaroli CV Site\Resources\bin\Debug\Resources.pdb
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\20150209\Mario Fornaroli CV Site\Resources\bin\Debug\it\Resources.resources.dll
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\20150209\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.Resources.resources
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\20150209\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.Resources.it.resources
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\20150209\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\20150209\Mario Fornaroli CV Site\Resources\obj\Debug\it\Resources.resources.dll
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\20150209\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.dll
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\20150209\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.pdb
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\Mario Fornaroli CV Site\Resources\bin\Debug\Resources.dll
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\Mario Fornaroli CV Site\Resources\bin\Debug\Resources.pdb
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\Mario Fornaroli CV Site\Resources\bin\Debug\it\Resources.resources.dll
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.Resources.resources
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.Resources.it.resources
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\Mario Fornaroli CV Site\Resources\obj\Debug\it\Resources.resources.dll
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.dll
+C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.pdb
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache

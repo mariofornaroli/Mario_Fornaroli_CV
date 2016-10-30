@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta charset="utf-8">
+    <title>Mario Fornaroli CV</title>
+    <meta name="description" content="Mario Fornaroli software developer profile">
+    <meta name="author" content="Mario Fornaroli">
+    <meta name="keywords" content="Curriculum, software, developer, .net, web, asp, mvc">
+    <!--[if lt IE 9]>
+        <script src="js/html5shiv/html5shiv.js" type="text/javascript"></script>
+        <script src="js/html5shiv/html5shiv-printshiv.js" type="text/javascript"></script>
+        <style type="text/css">.site_nav { border-bottom: 1px solid #d4d4d4; }</style>
+    <![endif]-->
+    <link href='http://fonts.googleapis.com/css?family=Arvo:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+    @Styles.Render("~/Content/css")
+
+</head>
+<body>
+    <div class="wrapper" id="wrapperId">
+        <div class="container">
+
+            <div class="upbtnwrapp"><div class="upbtn"><span class="icon-up-open-big"></span></div></div>
+
+            <!-- NAVIGATION -->
+            <nav class="site_nav" id="site_nav">
+                <ul class="">
+                    <li class="active" id="firstNav"><a href="#wrapperId">@Resources.aboutMe</a></li>
+                    <li><a href="#my_expertise">@Resources.myExpertise</a></li>
+                    <li><a href="#experience">@Resources.experience</a></li>
+                    <li><a href="#education">@Resources.education</a></li>
+                    <li><a href="#portfolio">@Resources.projects</a></li>
+                    <li><a href="#blog">@Resources.other</a></li>
+                    <li><a href="#contactNav">@Resources.contact</a></li>
+                    <li id="liLocalisation">
+                        <ul id="localisationContainer">
+                            @*<li id="enLangLi"><a id="enLang" href="#">En</a></li>
+                                <li id="itLangLi"><a id="itLang" href="#">It</a></li>*@
+                            @if (@Resources.lang == "English")
+                            {
+                                <li id="enLangLi"><a id="enLang" class="activeLocalisation" href="#">En</a></li>
+                                <li id="itLangLi"><a id="itLang" href="#">It</a></li>
+                            }
+                            else
+                            {
+                                <li id="enLangLi"><a id="enLang" href="#">En</a></li>
+                                <li id="itLangLi"><a id="itLang" class="activeLocalisation" href="#">It</a></li>
+                            }
+
+                            @*<li><a id="frLang" href="#">Fr</a></li>*@
+                        </ul>
+
+                        @*<div id="localisationContainer">
+                                <a id="enLang" href="#">En</a>
+                                <a id="itLang" href="#">It</a>
+                                <a id="frLang" href="#">Fr</a>
+                            </div>*@
+                    </li>
+                    @*<li id="liLanguage">
+                            <div id="contLanguage">
+                                @Html.ActionLink("En", "SetCulture", "Home", new { culture = "en" }, null)
+                                @Html.ActionLink("Fr", "SetCulture", "Home", new { culture = "fr" }, null)
+                                @Html.ActionLink("It", "SetCulture", "Home", new { culture = "it" }, null)
+                            </div>
+                        </li>*@
+                    @*<li>
+                        <ul>
+                                <li>@Html.ActionLink("En", "SetCulture", "Home", new { culture = "en" }, null)</li>
+                                <li>/</li>
+                                <li>@Html.ActionLink("Fr", "SetCulture", "Home", new { culture = "fr" }, null)</li>
+                                <li>/</li>
+                                <li>@Html.ActionLink("It", "SetCulture", "Home", new { culture = "it" }, null)</li>
+                            </ul>
+                        </li>*@
+                </ul>
+            </nav> <!-- /site_nav -->
+            <div id="aftermenuspace"></div>
+            <!-- HEADER -->
+            <header class="site_header centerise borderbtn">
+                <div id="logoline"><h1>MARIO FORNAROLI</h1></div>
+                <h2>@Resources.softwareDeveloperCapital</h2>
+                <h3>@Resources.pesentingSentence</h3>
+            </header> <!-- /site_header -->
+            <!-- end HEADER -->
+            @RenderBody()
+
+            <footer class="row-fluid" id="contactNav">
+                <div id="contact">
+                    <aside class="span3 aside_el">
+                        <h2>@Resources.contactMe</h2>
+                        @*<h5>we reply in less<br /> than 24 hours</h5>*@
+                    </aside>
+                    <div class="span9 borderleft">
+                        @*<form action="/Home/Contact" method="post" class="comment_form" data-validate="parsley">*@
+                        <div class="comment_form">
+                            @Html.AntiForgeryToken()
+                            <fieldset>
+                                <input type="text" id="form_name" name="form_name" data-required="true" data-trigger="focusin focusout" placeholder="@Resources.name">
+                                <input type="text" id="form_email" name="form_email" data-required="true" data-trigger="focusin focusout" data-type="email" placeholder="@Resources.emailAddress">
+                                <textarea rows="8" class="notResizable" id="form_message" name="form_message" data-required="true" data-trigger="focusin focusout" placeholder="@Resources.message"></textarea>
+                                @*<button type="submit" class="send-button pull-right">@Resources.send</button>*@
+                                <button id="sendAjax" class="send-button pull-right">@Resources.send</button>
+                            </fieldset>
+                            <p id="sendMailResult"></p>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+
+        </div> <!-- /container -->
+    </div> <!-- /wrapper -->
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>

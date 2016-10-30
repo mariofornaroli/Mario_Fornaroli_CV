@@ -1,0 +1,10 @@
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\bin\Release\Resources.dll
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\bin\Release\Resources.pdb
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\bin\Release\it\Resources.resources.dll
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Release\Resources.Resources.resources
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Release\Resources.Resources.it.resources
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Release\Resources.csproj.GenerateResource.Cache
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Release\it\Resources.resources.dll
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Release\Resources.dll
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Release\Resources.pdb
+D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Release\Resources.csprojResolveAssemblyReference.cache
