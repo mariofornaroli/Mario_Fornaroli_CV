@@ -214,6 +214,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to AngularJs / KnockoutJs + ASP MVC + WCF (insurance domain).
+        /// </summary>
+        public static string chTitle {
+            get {
+                return ResourceManager.GetString("chTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Close.
         /// </summary>
         public static string close {
@@ -862,6 +871,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to AngularJs + ASP MVC + Web API (logistical domain).
+        /// </summary>
+        public static string porTitle {
+            get {
+                return ResourceManager.GetString("porTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Present.
         /// </summary>
         public static string present {
@@ -871,11 +889,110 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .NET Asp MVC.
+        /// </summary>
+        public static string projectChDescription1 {
+            get {
+                return ResourceManager.GetString("projectChDescription1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Front end developed with AngularJs / KnockoutJs + Jquery (plus obviously HTML5-CSS3-JS and other common js libraries).
+        /// </summary>
+        public static string projectChDescription2 {
+            get {
+                return ResourceManager.GetString("projectChDescription2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Backend services exposed through WCF.
+        /// </summary>
+        public static string projectChDescription3 {
+            get {
+                return ResourceManager.GetString("projectChDescription3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MS SQL Server db with both Entity Framework and ADO .NET (stored procedure and direct sql commands).
+        /// </summary>
+        public static string projectChDescription4 {
+            get {
+                return ResourceManager.GetString("projectChDescription4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This web application is an insurance bureau suite of services for the UK market. It involves the following technologies:.
+        /// </summary>
+        public static string projectChSentence {
+            get {
+                return ResourceManager.GetString("projectChSentence", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Projects.
         /// </summary>
         public static string projects {
             get {
                 return ResourceManager.GetString("projects", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Insurance bureau suite of services.
+        /// </summary>
+        public static string projectsCh {
+            get {
+                return ResourceManager.GetString("projectsCh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Web portal to manage products in/out in logistic deposit.
+        /// </summary>
+        public static string projectsPor {
+            get {
+                return ResourceManager.GetString("projectsPor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to AngularJs front end  (plus obviously HTML5-CSS3-JS and other common js libraries).
+        /// </summary>
+        public static string projectsPorDescription1 {
+            get {
+                return ResourceManager.GetString("projectsPorDescription1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .NET Web API to expose web services.
+        /// </summary>
+        public static string projectsPorDescription2 {
+            get {
+                return ResourceManager.GetString("projectsPorDescription2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MS SQL Server db with Entity Framework.
+        /// </summary>
+        public static string projectsPorDescription3 {
+            get {
+                return ResourceManager.GetString("projectsPorDescription3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Web application to manage products in/out in logistic deposit.  It involves the following technologies:.
+        /// </summary>
+        public static string projectsPorSentence {
+            get {
+                return ResourceManager.GetString("projectsPorSentence", resourceCulture);
             }
         }
         

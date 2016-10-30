@@ -477,4 +477,43 @@ Ovviamente nel quotidiano utilizzo una serie di altri strumenti come strumenti d
   <data name="elctrAndIctEngineeringTitle" xml:space="preserve">
     <value>Ingegneria Elettronica e delle Telecomunicazioni</value>
   </data>
+  <data name="chTitle" xml:space="preserve">
+    <value>AngularJs / KnockoutJs + ASP MVC + WCF (dominio assicurazioni)</value>
+  </data>
+  <data name="porTitle" xml:space="preserve">
+    <value>AngularJs + ASP MVC + Web API (dominio logistica)</value>
+  </data>
+  <data name="projectChDescription1" xml:space="preserve">
+    <value>.NET Asp MVC</value>
+  </data>
+  <data name="projectChDescription2" xml:space="preserve">
+    <value>Front end sviluppato con AngularJs / KnockoutJs + Jquery (più ovviamente HTML5-CSS3-JS ed altre librerie js popolari)</value>
+  </data>
+  <data name="projectChDescription3" xml:space="preserve">
+    <value>Servizi esposti attraverso WCF</value>
+  </data>
+  <data name="projectChDescription4" xml:space="preserve">
+    <value>MS SQL Server db utilizzato sia con Entity Framework che direttamente con ADO .NET (stored procedure e comandi sql da codice)</value>
+  </data>
+  <data name="projectChSentence" xml:space="preserve">
+    <value>Questa web app è un portale di servizi utilizzato da diverse agenzie assicurative in Gran Bretagna. Utilizza le seguenti tecnologie:</value>
+  </data>
+  <data name="projectsCh" xml:space="preserve">
+    <value>Portale di servizi per agenzie assicurative</value>
+  </data>
+  <data name="projectsPor" xml:space="preserve">
+    <value>Portale per la gestione dei prodotti di una logistica</value>
+  </data>
+  <data name="projectsPorDescription1" xml:space="preserve">
+    <value>AngularJs front end  (con ovviamente HTML5-CSS3-JS ed altre librerie js popolari)</value>
+  </data>
+  <data name="projectsPorDescription2" xml:space="preserve">
+    <value>.NET Web API per l'esposizione dei servizi web</value>
+  </data>
+  <data name="projectsPorDescription3" xml:space="preserve">
+    <value>MS SQL Server db con Entity Framework</value>
+  </data>
+  <data name="projectsPorSentence" xml:space="preserve">
+    <value>Questa web app è un portale per la gestione dei prodotti di una logistica.  Utilizza le seguenti tecnologie:</value>
+  </data>
 </root>

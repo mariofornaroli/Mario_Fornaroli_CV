@@ -477,4 +477,43 @@ I do daily use (or used in previous projects) various other tool such as automat
   <data name="elctrAndIctEngineeringTitle" xml:space="preserve">
     <value>Electronic and ICT Engineering</value>
   </data>
+  <data name="chTitle" xml:space="preserve">
+    <value>AngularJs / KnockoutJs + ASP MVC + WCF (insurance domain)</value>
+  </data>
+  <data name="porTitle" xml:space="preserve">
+    <value>AngularJs + ASP MVC + Web API (logistical domain)</value>
+  </data>
+  <data name="projectChDescription1" xml:space="preserve">
+    <value>.NET Asp MVC</value>
+  </data>
+  <data name="projectChDescription2" xml:space="preserve">
+    <value>Front end developed with AngularJs / KnockoutJs + Jquery (plus obviously HTML5-CSS3-JS and other common js libraries)</value>
+  </data>
+  <data name="projectChDescription3" xml:space="preserve">
+    <value>Backend services exposed through WCF</value>
+  </data>
+  <data name="projectChDescription4" xml:space="preserve">
+    <value>MS SQL Server db with both Entity Framework and ADO .NET (stored procedure and direct sql commands)</value>
+  </data>
+  <data name="projectChSentence" xml:space="preserve">
+    <value>This web application is an insurance bureau suite of services for the UK market. It involves the following technologies:</value>
+  </data>
+  <data name="projectsCh" xml:space="preserve">
+    <value>Insurance bureau suite of services</value>
+  </data>
+  <data name="projectsPor" xml:space="preserve">
+    <value>Web portal to manage products in/out in logistic deposit</value>
+  </data>
+  <data name="projectsPorDescription1" xml:space="preserve">
+    <value>AngularJs front end  (plus obviously HTML5-CSS3-JS and other common js libraries)</value>
+  </data>
+  <data name="projectsPorDescription2" xml:space="preserve">
+    <value>.NET Web API to expose web services</value>
+  </data>
+  <data name="projectsPorDescription3" xml:space="preserve">
+    <value>MS SQL Server db with Entity Framework</value>
+  </data>
+  <data name="projectsPorSentence" xml:space="preserve">
+    <value>Web application to manage products in/out in logistic deposit.  It involves the following technologies:</value>
+  </data>
 </root>

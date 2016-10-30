@@ -149,6 +149,7 @@
     <Content Include="Content\img\3.jpg" />
     <Content Include="Content\img\body-bg%402x.png" />
     <Content Include="Content\img\body-bg.png" />
+    <Content Include="Content\img\ch_ex1.png" />
     <Content Include="Content\img\contact-bg%402x.png" />
     <Content Include="Content\img\contact-bg.png" />
     <Content Include="Content\img\container-bg%402x.png" />
@@ -180,6 +181,7 @@
     <Content Include="Content\img\Mario_Fornaroli.jpg" />
     <Content Include="Content\img\MS_Cert_Professional_logo_Wht_rgb.jpg" />
     <Content Include="Content\img\Other_Projects_Img.jpg" />
+    <Content Include="Content\img\P_AllDocs_And_Buttons.png" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\fontello\config.json" />
@@ -222,6 +224,7 @@
     <Content Include="Content\bootstrap\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="Content\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
     <None Include="Project_Readme.html" />
+    <None Include="Properties\PublishProfiles\mariofornarolicv %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\mariofornarolicv.pubxml" />
   </ItemGroup>
   <ItemGroup>
