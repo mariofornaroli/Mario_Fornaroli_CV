@@ -27,3 +27,32 @@ D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Mario_Fornaroli_CV\
 D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Mario_Fornaroli_CV\obj\Release\Mario_Fornaroli_CV.csprojResolveAssemblyReference.cache
 D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Mario_Fornaroli_CV\obj\Release\Mario_Fornaroli_CV.dll
 D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Mario_Fornaroli_CV\obj\Release\Mario_Fornaroli_CV.pdb
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\Mario_Fornaroli_CV.dll.config
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\Mario_Fornaroli_CV.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\Mario_Fornaroli_CV.pdb
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\Antlr3.Runtime.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\Microsoft.Web.Infrastructure.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\Newtonsoft.Json.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\Resources.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.Helpers.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.Mvc.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.Optimization.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.Razor.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.WebPages.Deployment.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.WebPages.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.WebPages.Razor.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\WebGrease.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\Resources.pdb
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.Helpers.xml
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.Mvc.xml
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.Optimization.xml
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.Razor.xml
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.WebPages.xml
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.WebPages.Deployment.xml
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\System.Web.WebPages.Razor.xml
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\Antlr3.Runtime.pdb
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\Newtonsoft.Json.xml
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\bin\it\Resources.resources.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\obj\Release\Mario_Fornaroli_CV.csprojResolveAssemblyReference.cache
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\obj\Release\Mario_Fornaroli_CV.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Mario_Fornaroli_CV\obj\Release\Mario_Fornaroli_CV.pdb

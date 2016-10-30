@@ -474,4 +474,7 @@ Sviluppio in team applicazioni web di tipo Single Page Application utilizzando p
     <value>l'IDE che utilizzo è Visual Studio. E' l'ambiente di sviluppo che preferisco!
 Ovviamente nel quotidiano utilizzo una serie di altri strumenti come strumenti di automatizzazione dei task (ex.Gulp), Framework per documentare e testare le web API(ex.Swagger), sistemi di versioning (ex.TFS), etc... nella sezione progetti vi è una visualizzazione più esaustiva dei differenti strumenti che utilizzo nei vari progetti.</value>
   </data>
+  <data name="elctrAndIctEngineeringTitle" xml:space="preserve">
+    <value>Ingegneria Elettronica e delle Telecomunicazioni</value>
+  </data>
 </root>

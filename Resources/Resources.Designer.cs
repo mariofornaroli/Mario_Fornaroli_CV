@@ -385,6 +385,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Electronic and ICT Engineering.
+        /// </summary>
+        public static string elctrAndIctEngineeringTitle {
+            get {
+                return ResourceManager.GetString("elctrAndIctEngineeringTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Email Address.
         /// </summary>
         public static string emailAddress {

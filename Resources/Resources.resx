@@ -474,4 +474,7 @@ I've developed web application in form of Single Page Application and we mainly 
     <value>The IDE I mainly use is Visual Studio. It’s my favorite one!
 I do daily use (or used in previous projects) various other tool such as automated task-runners, framework to document and test API’s, versioning tool, etc.. </value>
   </data>
+  <data name="elctrAndIctEngineeringTitle" xml:space="preserve">
+    <value>Electronic and ICT Engineering</value>
+  </data>
 </root>

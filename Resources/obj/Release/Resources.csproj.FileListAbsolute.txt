@@ -8,3 +8,13 @@ D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Relea
 D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Release\Resources.dll
 D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Release\Resources.pdb
 D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Release\Resources.csprojResolveAssemblyReference.cache
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\bin\Release\Resources.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\bin\Release\Resources.pdb
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\bin\Release\it\Resources.resources.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\Resources.csprojResolveAssemblyReference.cache
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\Resources.Resources.resources
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\Resources.Resources.it.resources
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\Resources.csproj.GenerateResource.Cache
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\it\Resources.resources.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\Resources.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\Resources.pdb
