@@ -220,7 +220,7 @@
     <value>Altre tecnologie</value>
   </data>
   <data name="pesentingSentence" xml:space="preserve">
-    <value>Mi occupo di sviluppo software e mi appassiona tutto cio' che riguarda la programmazione di software per Desktop, Web e Mobile.</value>
+    <value>Mi occupo di sviluppo software e mi appassiona tutto cio' che riguarda la programmazione di software per Web e Mobile.</value>
   </data>
   <data name="present" xml:space="preserve">
     <value>Attualmente</value>
@@ -311,7 +311,7 @@
     <value>Ho un forte background in informatica avendo sempre lavorato in quel settore e sviluppato applicazioni per progetti di diverso tipo.</value>
   </data>
   <data name="aboutMe_Sentence_3" xml:space="preserve">
-    <value>Dopo aver lavorato come consulente IT per l’Agenzia Spaziale Europea (1.5 anni) e per la banca Credit Agricole (1 anno), da 3 anni lavoro come Software Engineer nel team di sviluppo di STMicroelectronics a Bruxelles.</value>
+    <value>Lavoro come sviluppatore software da 7 anni ed in particolare negli ultimi 4 come svilupatore web. Ho lavorato 1.5 anni a Toulouse, 4 anni a Bruxelles e da 1.5 anni vivo e lavoro a Bologna.</value>
   </data>
   <data name="diplomaDescription" xml:space="preserve">
     <value>Perito informatico.</value>
@@ -320,10 +320,10 @@
     <value>Tesi specialistica dal titolo “Processing of Hyperspectral Remote Sensing data” svolta all’Università di Extremadura, Spagna con la supervisione del Prof. P.Gamba dell’Università di Pavia, Italia e del Prof. A.Plaza dell’Università di Extremadura, Spagna.</value>
   </data>
   <data name="myExpertise_Sentence_1" xml:space="preserve">
-    <value>Nella mia carriera lavorativa ho sviluppato diverse applicazioni Windows (principalmente con C# WPF), spesso nel campo della sicurezza e della crittografia. Ho svolto diversi progetti sulla base della programmazione OOP (Object Oriented Programming).</value>
+    <value>Nella mia carriera lavorativa ho sviluppato diverse applicazioni web, lavorando principalmente con le seguenti tecnologie: AngularJS, e ovviamente Jquery-html5-css3-js, (lato frontend) e tecnologie .Net, come Web API/Asp MVC - Entity Framework – Microsoft Sql server  (lato backend).</value>
   </data>
   <data name="myExpertise_Sentence_2" xml:space="preserve">
-    <value>Essendo appassionato di programmazione web, in aggiunta al mio lavoro quotidiano, ho realizzato diverse applicazioni web. Le tecnologie utilizzate sono principalmente ASP. Net MVC con Entity Framework e SQL Server (lato server) e HTML5, CSS, Javascript, AngularJS e jQuery (lato cliente).</value>
+    <value>Nei primi anni ho anche sviluppato applicazioni desktop (principalmente con C# WPF), applicazioni multi-platform (C++ Qt framework per Linux), spesso nel campo della sicurezza e della crittografia, e DLLs (linguaggio C/C++) per comunicare con dispositivi esterni attraverso API.</value>
   </data>
   <data name="myExpertise_Sentence_3" xml:space="preserve">
     <value>Ho anche sviluppato DLLs (linguaggio C/C++) per comunicare con dispositivi esterni attraverso API. Ho sviluppato due di moduli (linguaggio C) da installare in un HSM (Hardware Security Module) nel dominio della crittografia per applicazioni di autentificazione e sicurezza.</value>
@@ -453,5 +453,25 @@
   </data>
   <data name="cSharpExamPassed" xml:space="preserve">
     <value>TEST DI CERTIFICAZIONE SUPERATO</value>
+  </data>
+  <data name="bologna" xml:space="preserve">
+    <value>Bologna</value>
+  </data>
+  <data name="fullStackWebDeveloper" xml:space="preserve">
+    <value>Full Stack Web Developer</value>
+  </data>
+  <data name="fullStackWebDeveloperCapital" xml:space="preserve">
+    <value>FULL STACK WEB DEVELOPER</value>
+  </data>
+  <data name="italy" xml:space="preserve">
+    <value>Italia</value>
+  </data>
+  <data name="work_Euris1" xml:space="preserve">
+    <value>Lavoro come web developer in diversi progetti, soprattutto per applicazioni web nel campo delle assicurazioni e della logistica.
+Sviluppio in team applicazioni web di tipo Single Page Application utilizzando principalmente spesso il seguente stack tecnologico:</value>
+  </data>
+  <data name="work_Euris2" xml:space="preserve">
+    <value>l'IDE che utilizzo è Visual Studio. E' l'ambiente di sviluppo che preferisco!
+Ovviamente nel quotidiano utilizzo una serie di altri strumenti come strumenti di automatizzazione dei task (ex.Gulp), Framework per documentare e testare le web API(ex.Swagger), sistemi di versioning (ex.TFS), etc... nella sezione progetti vi è una visualizzazione più esaustiva dei differenti strumenti che utilizzo nei vari progetti.</value>
   </data>
 </root>

@@ -220,7 +220,7 @@
     <value>Other technologies</value>
   </data>
   <data name="pesentingSentence" xml:space="preserve">
-    <value>Hi, I'm a software engineer and I love everything related to software development for desktop, web and mobile platforms.</value>
+    <value>Hi, I'm a software engineer and I love everything related to software development for web and mobile platforms.</value>
   </data>
   <data name="present" xml:space="preserve">
     <value>Present</value>
@@ -305,13 +305,13 @@
     <value>Visit it</value>
   </data>
   <data name="aboutMe_Sentence_1" xml:space="preserve">
-    <value>Hi, I graduated with a First in Electronic and Telecommunication Engineering from the University of Pavia in Italy in 2009 and I got a High School Diploma in Computer Technology in 2006.</value>
+    <value>Hi, I graduated with a First in Electronic and ICT Engineering from the University of Pavia in Italy in 2009 and I got a High School Diploma in Computer Technology in 2006.</value>
   </data>
   <data name="aboutMe_Sentence_2" xml:space="preserve">
     <value>I have a strong background in Information Technology as I carried out various IT projects during my professional experience.</value>
   </data>
   <data name="aboutMe_Sentence_3" xml:space="preserve">
-    <value>After having worked as IT consultant for the European Space Agency (1.5 years) and for Credit Agricole bank (1 year) I've been working for STMicroelectronics Brussels in the software tools development team for 3 years.</value>
+    <value>I’ve been working as software developer for 7 years and particularly as web developer for the last 4 years in different European cities.</value>
   </data>
   <data name="diplomaDescription" xml:space="preserve">
     <value>Specializations in Computer Science.</value>
@@ -320,10 +320,10 @@
     <value>Master thesis on “Processing of Hyperspectral Remote Sensing data” at University of Extremadura, Spain  (supervisors Prof. P.Gamba from University of Pavia-Italy and Prof. A.Plaza from University of Extremadura-Spain).</value>
   </data>
   <data name="myExpertise_Sentence_1" xml:space="preserve">
-    <value>During my work experience I have developed several Windows applications (mainly C# .Net with WPF) and multi-platform applications (C++ Qt framework for Linux), often in the domain of cryptography and security. I develope with Object Oriented Programming (OOP).</value>
+    <value>During my work experience I have developed various web applications, mainly working with the following technologies:  AngularJS, plus obviously Jquery-html5-css3-js, (frontend side) and .Net technologies, such as Web API/Asp MVC - Entity Framework – Microsoft Sql server (backend side).</value>
   </data>
   <data name="myExpertise_Sentence_2" xml:space="preserve">
-    <value>Being passionate of web development, in addition I've worked as freelance in realizing web applications and websites. The technologies I'm mainly using are ASP. Net MVC with Entity Framework and SQL Server (server side) and HTML5, CSS, Javascript, AngularJS and jQuery (client side).</value>
+    <value>In my first years I also developed Windows applications (mainly C# .Net with WPF), multi-platform applications (C++ Qt framework for Linux), often in the domain of cryptography and security, and I DLLs (C/C++ language) to communicate with external devices through API.</value>
   </data>
   <data name="myExpertise_Sentence_3" xml:space="preserve">
     <value>I have also developed DLLs (C/C++ language) to communicate with external devices through API. I developed a couple of modules (C language) to embed in a Hardware Security Module in the domain of cryptography for the brand protection market.</value>
@@ -453,5 +453,25 @@
   </data>
   <data name="cSharpExamPassed" xml:space="preserve">
     <value>CERTIFICATION EXAMS COMPLETED SUCCESSFULLY</value>
+  </data>
+  <data name="bologna" xml:space="preserve">
+    <value>Bologne</value>
+  </data>
+  <data name="fullStackWebDeveloper" xml:space="preserve">
+    <value>Full Stack Web Developer</value>
+  </data>
+  <data name="fullStackWebDeveloperCapital" xml:space="preserve">
+    <value>FULL STACK WEB DEVELOPER</value>
+  </data>
+  <data name="italy" xml:space="preserve">
+    <value>Italy</value>
+  </data>
+  <data name="work_Euris1" xml:space="preserve">
+    <value>I’ve been working as web developer in different projects, mainly in assurance and logistic distribution domain.
+I've developed web application in form of Single Page Application and we mainly use the following stack:</value>
+  </data>
+  <data name="work_Euris2" xml:space="preserve">
+    <value>The IDE I mainly use is Visual Studio. It’s my favorite one!
+I do daily use (or used in previous projects) various other tool such as automated task-runners, framework to document and test API’s, versioning tool, etc.. </value>
   </data>
 </root>

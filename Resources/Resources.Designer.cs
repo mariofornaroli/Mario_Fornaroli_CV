@@ -70,7 +70,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hi, I graduated with a First in Electronic and Telecommunication Engineering from the University of Pavia in Italy in 2009 and I got a High School Diploma in Computer Technology in 2006..
+        ///   Looks up a localized string similar to Hi, I graduated with a First in Electronic and ICT Engineering from the University of Pavia in Italy in 2009 and I got a High School Diploma in Computer Technology in 2006..
         /// </summary>
         public static string aboutMe_Sentence_1 {
             get {
@@ -88,7 +88,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to After having worked as IT consultant for the European Space Agency (1.5 years) and for Credit Agricole bank (1 year) I&apos;ve been working for STMicroelectronics Brussels in the software tools development team for 3 years..
+        ///   Looks up a localized string similar to I’ve been working as software developer for 7 years and particularly as web developer for the last 4 years in different European cities..
         /// </summary>
         public static string aboutMe_Sentence_3 {
             get {
@@ -138,6 +138,15 @@ namespace Resources {
         public static string bilingual {
             get {
                 return ResourceManager.GetString("bilingual", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bologne.
+        /// </summary>
+        public static string bologna {
+            get {
+                return ResourceManager.GetString("bologna", resourceCulture);
             }
         }
         
@@ -439,6 +448,24 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Full Stack Web Developer.
+        /// </summary>
+        public static string fullStackWebDeveloper {
+            get {
+                return ResourceManager.GetString("fullStackWebDeveloper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to FULL STACK WEB DEVELOPER.
+        /// </summary>
+        public static string fullStackWebDeveloperCapital {
+            get {
+                return ResourceManager.GetString("fullStackWebDeveloperCapital", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Good.
         /// </summary>
         public static string good {
@@ -507,6 +534,15 @@ namespace Resources {
         public static string italian {
             get {
                 return ResourceManager.GetString("italian", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italy.
+        /// </summary>
+        public static string italy {
+            get {
+                return ResourceManager.GetString("italy", resourceCulture);
             }
         }
         
@@ -655,7 +691,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to During my work experience I have developed several Windows applications (mainly C# .Net with WPF) and multi-platform applications (C++ Qt framework for Linux), often in the domain of cryptography and security. I develope with Object Oriented Programming (OOP)..
+        ///   Looks up a localized string similar to During my work experience I have developed various web applications, mainly working with the following technologies:  AngularJS, plus obviously Jquery-html5-css3-js, (frontend side) and .Net technologies, such as Web API/Asp MVC - Entity Framework – Microsoft Sql server (backend side)..
         /// </summary>
         public static string myExpertise_Sentence_1 {
             get {
@@ -664,7 +700,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Being passionate of web development, in addition I&apos;ve worked as freelance in realizing web applications and websites. The technologies I&apos;m mainly using are ASP. Net MVC with Entity Framework and SQL Server (server side) and HTML5, CSS, Javascript, AngularJS and jQuery (client side)..
+        ///   Looks up a localized string similar to In my first years I also developed Windows applications (mainly C# .Net with WPF), multi-platform applications (C++ Qt framework for Linux), often in the domain of cryptography and security, and I DLLs (C/C++ language) to communicate with external devices through API..
         /// </summary>
         public static string myExpertise_Sentence_2 {
             get {
@@ -808,7 +844,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hi, I&apos;m a software engineer and I love everything related to software development for desktop, web and mobile platforms..
+        ///   Looks up a localized string similar to Hi, I&apos;m a software engineer and I love everything related to software development for web and mobile platforms..
         /// </summary>
         public static string pesentingSentence {
             get {
@@ -1011,6 +1047,26 @@ namespace Resources {
         public static string work_CW2 {
             get {
                 return ResourceManager.GetString("work_CW2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I’ve been working as web developer in different projects, mainly in assurance and logistic distribution domain.
+        ///I&apos;ve developed web application in form of Single Page Application and we mainly use the following stack:.
+        /// </summary>
+        public static string work_Euris1 {
+            get {
+                return ResourceManager.GetString("work_Euris1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The IDE I mainly use is Visual Studio. It’s my favorite one!
+        ///I do daily use (or used in previous projects) various other tool such as automated task-runners, framework to document and test API’s, versioning tool, etc.. .
+        /// </summary>
+        public static string work_Euris2 {
+            get {
+                return ResourceManager.GetString("work_Euris2", resourceCulture);
             }
         }
         

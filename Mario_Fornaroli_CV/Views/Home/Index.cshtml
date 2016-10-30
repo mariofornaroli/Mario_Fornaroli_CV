@@ -107,39 +107,38 @@
             @*<h5>skills that I’m<br /> proud of</h5>*@
         </aside>
         <article class="span9 borderleft par_el">
-            <section class="row-fluid">
-                <!-- Desktop expertise -->
-                <article class="span8">
-                    <p>@Resources.myExpertise_Sentence_1</p>
-                </article>
-                <div class="span4 skill_level">
-                    <span class="labelMFO label_Desktop">C#</span>
-                    <span class="labelMFO label_Desktop">.NET</span>
-                    <span class="labelMFO label_Desktop">WPF</span>
-                    <span class="labelMFO label_Desktop">Cryptography</span>
-                    <span class="labelMFO label_Desktop">ASP MVC</span>
-                    <span class="labelMFO label_Desktop">Web API</span>
-                </div>
-            </section> <!-- /Desktop expertise -->
 
             <section class="row-fluid">
                 <!-- Web expertise -->
                 <article class="span8">
-                    <p>@Resources.myExpertise_Sentence_2</p>
+                    <p>@Resources.myExpertise_Sentence_1</p>
                 </article>
                 <div class="span4 skill_level">
+                    <span class="labelMFO label_Web">AngularJs</span>
+                    <span class="labelMFO label_Web">Web API</span>
                     <span class="labelMFO label_Web">ASP MVC</span>
-                    <span class="labelMFO label_Web">HTML5</span>
-                    <span class="labelMFO label_Web">CSS3</span>
-                    <span class="labelMFO label_Web">Javascript</span>
-                    <span class="labelMFO label_Web">AngularJS</span>
-                    <span class="labelMFO label_Web">jQuery</span>
-                    <span class="labelMFO label_Web">Bootstrap</span>
+                    <span class="labelMFO label_Web">Entity Framework</span>
+                    <span class="labelMFO label_Web">MS SQL</span>
+                    <span class="labelMFO label_Web">KnockoutJs</span>
+                    <span class="labelMFO label_Web">HTML5 - CSS3 - JS</span>
                 </div>
             </section> <!-- /Web expertise -->
 
             <section class="row-fluid">
-                <!-- Lower Level Languages expertise -->
+                <!-- Desktop expertise -->
+                <article class="span8">
+                    <p>@Resources.myExpertise_Sentence_2</p>
+                </article>
+                <div class="span4 skill_level desktop_level">
+                    <span class="labelMFO label_Desktop">C#</span>
+                    <span class="labelMFO label_Desktop">.NET</span>
+                    <span class="labelMFO label_Desktop">Web API</span>
+                    <span class="labelMFO label_Desktop">Cryptography</span>
+                    <span class="labelMFO label_Desktop">C/C++</span>
+                </div>
+            </section> <!-- /Desktop expertise -->            
+
+            @*<section class="row-fluid">
                 <article class="span8">
                     <p>@Resources.myExpertise_Sentence_3</p>
                 </article>
@@ -148,7 +147,7 @@
                     <span class="labelMFO label_LowLevelLanguage">C</span>
                     <span class="labelMFO label_LowLevelLanguage">Delphi</span>
                 </div>
-            </section> <!-- /Lower Level Languages expertise -->
+            </section>*@ 
 
             <section class="row-fluid">
                 <!-- IDE expertise -->
@@ -176,12 +175,27 @@
     <section class="row-fluid experience" id="experience">
         <aside class="span3 aside_el">
             <h2>@Resources.experience</h2>
-            @*<h5>where I worked</h5>*@
         </aside>
         <div class="span9">
+            <!-- Euris -->
             <div class="row-fluid">
                 <article class="span12  borderleft par_el in_spacing">
-                    <span class="period">2012 - @Resources.present</span>
+                    <span class="period">2015 - @Resources.present</span>
+                    <span class="city_Experience">@Resources.bologna, @Resources.italy</span>
+                    <div class="bigspacing jobRole">
+                        <header>
+                            <h2>Euris</h2>
+                            <h3>@Resources.fullStackWebDeveloper</h3>
+                        </header>
+                        <p>@Resources.work_Euris1</p>
+                        <p>@Resources.work_Euris2</p>
+                    </div>
+                </article>
+            </div>
+            <!-- STMicroelectronics -->
+            <div class="row-fluid">
+                <article class="span12  borderleft par_el in_spacing">
+                    <span class="period">2012 - 2015</span>
                     <span class="city_Experience">@Resources.Brussels, @Resources.Belgium</span>
                     <div class="bigspacing jobRole">
                         <header>
@@ -193,6 +207,7 @@
                     </div>
                 </article>
             </div>
+            <!-- Callataÿ & Wouters -->
             <div class="row-fluid">
                 <article class="span12  borderleft par_el in_spacing">
                     <span class="period">2011 - 2012</span>
@@ -207,6 +222,7 @@
                     </div>
                 </article>
             </div>
+            <!-- Callisto Space Ltd -->
             <div class="row-fluid">
                 <article class="span12  borderleft par_el in_spacing">
                     <span class="period">2009 - 2011</span>
@@ -224,6 +240,7 @@
                     </div>
                 </article>
             </div>
+            <!-- Freelance -->
             <div class="row-fluid">
                 <article class="span12  borderleft par_el in_spacingbottom">
                     <span class="period">2013 - @Resources.present</span>
