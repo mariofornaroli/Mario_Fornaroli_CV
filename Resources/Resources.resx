@@ -525,4 +525,19 @@ I do daily use (or used in previous projects) various other tool such as automat
   <data name="projectsPorMob" xml:space="preserve">
     <value>Tablet and Smartphone Android app per logistica</value>
   </data>
+  <data name="hTitle" xml:space="preserve">
+    <value>AngularJs + Web API</value>
+  </data>
+  <data name="porMobTitle" xml:space="preserve">
+    <value>Cordova Android and potentially Ios app (logistical domain)</value>
+  </data>
+  <data name="projectsHDescription4" xml:space="preserve">
+    <value>UX professionally designed - Material Design</value>
+  </data>
+  <data name="projectsPorMobDescription4" xml:space="preserve">
+    <value>Online and Offline management</value>
+  </data>
+  <data name="projectsPorMobDescription5" xml:space="preserve">
+    <value>Various Cordova Plugins (digital signature, camera, file system, white-list, etc...)</value>
+  </data>
 </root>

@@ -493,6 +493,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to AngularJs + Web API.
+        /// </summary>
+        public static string hTitle {
+            get {
+                return ResourceManager.GetString("hTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to ICT Consultant.
         /// </summary>
         public static string ICTConsultant {
@@ -871,6 +880,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Cordova Android and potentially Ios app (logistical domain).
+        /// </summary>
+        public static string porMobTitle {
+            get {
+                return ResourceManager.GetString("porMobTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to AngularJs + ASP MVC + Web API (logistical domain).
         /// </summary>
         public static string porTitle {
@@ -961,6 +979,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to UX professionally designed - Material Design.
+        /// </summary>
+        public static string projectsHDescription4 {
+            get {
+                return ResourceManager.GetString("projectsHDescription4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Web application to automatize sending mails and documents through online services.  It involves the following technologies:.
         /// </summary>
         public static string projectsHSentence {
@@ -1011,6 +1038,24 @@ namespace Resources {
         public static string projectsPorMob {
             get {
                 return ResourceManager.GetString("projectsPorMob", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Online and Offline management.
+        /// </summary>
+        public static string projectsPorMobDescription4 {
+            get {
+                return ResourceManager.GetString("projectsPorMobDescription4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Various Cordova Plugins (digital signature, camera, file system, white-list, etc...).
+        /// </summary>
+        public static string projectsPorMobDescription5 {
+            get {
+                return ResourceManager.GetString("projectsPorMobDescription5", resourceCulture);
             }
         }
         
