@@ -952,7 +952,25 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Web portal to manage products in/out in logistic deposit.
+        ///   Looks up a localized string similar to Online service to automatize documents sending.
+        /// </summary>
+        public static string projectsH {
+            get {
+                return ResourceManager.GetString("projectsH", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Web application to automatize sending mails and documents through online services.  It involves the following technologies:.
+        /// </summary>
+        public static string projectsHSentence {
+            get {
+                return ResourceManager.GetString("projectsHSentence", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Web portal to manage a logistic deposit.
         /// </summary>
         public static string projectsPor {
             get {
@@ -984,6 +1002,15 @@ namespace Resources {
         public static string projectsPorDescription3 {
             get {
                 return ResourceManager.GetString("projectsPorDescription3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tablet and Smartphone Android app per logistica.
+        /// </summary>
+        public static string projectsPorMob {
+            get {
+                return ResourceManager.GetString("projectsPorMob", resourceCulture);
             }
         }
         

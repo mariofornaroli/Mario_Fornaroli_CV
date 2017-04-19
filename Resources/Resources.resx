@@ -502,7 +502,7 @@ I do daily use (or used in previous projects) various other tool such as automat
     <value>Insurance bureau suite of services</value>
   </data>
   <data name="projectsPor" xml:space="preserve">
-    <value>Web portal to manage products in/out in logistic deposit</value>
+    <value>Web portal to manage a logistic deposit</value>
   </data>
   <data name="projectsPorDescription1" xml:space="preserve">
     <value>AngularJs front end  (plus obviously HTML5-CSS3-JS and other common js libraries)</value>
@@ -515,5 +515,14 @@ I do daily use (or used in previous projects) various other tool such as automat
   </data>
   <data name="projectsPorSentence" xml:space="preserve">
     <value>Web application to manage products in/out in logistic deposit.  It involves the following technologies:</value>
+  </data>
+  <data name="projectsH" xml:space="preserve">
+    <value>Online service to automatize documents sending</value>
+  </data>
+  <data name="projectsHSentence" xml:space="preserve">
+    <value>Web application to automatize sending mails and documents through online services.  It involves the following technologies:</value>
+  </data>
+  <data name="projectsPorMob" xml:space="preserve">
+    <value>Tablet and Smartphone Android app per logistica</value>
   </data>
 </root>

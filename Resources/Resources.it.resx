@@ -516,4 +516,13 @@ Ovviamente nel quotidiano utilizzo una serie di altri strumenti come strumenti d
   <data name="projectsPorSentence" xml:space="preserve">
     <value>Questa web app è un portale per la gestione dei prodotti di una logistica.  Utilizza le seguenti tecnologie:</value>
   </data>
+  <data name="projectsH" xml:space="preserve">
+    <value>Portale per l'invio online postale di documenti e raccomandate</value>
+  </data>
+  <data name="projectsHSentence" xml:space="preserve">
+    <value>Questa web app è un portale per l'automatizzazione dell'invio postale di documenti e raccomandate tramite servizi online.  Utilizza le seguenti tecnologie:</value>
+  </data>
+  <data name="projectsPorMob" xml:space="preserve">
+    <value>Tablet and Smartphone Android app per logistica</value>
+  </data>
 </root>

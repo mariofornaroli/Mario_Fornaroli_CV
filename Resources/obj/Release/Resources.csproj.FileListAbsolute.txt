@@ -17,3 +17,4 @@ C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Rel
 C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\it\Resources.resources.dll
 C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\Resources.dll
 C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\Resources.pdb
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\Resources.csprojResolveAssemblyReference.cache

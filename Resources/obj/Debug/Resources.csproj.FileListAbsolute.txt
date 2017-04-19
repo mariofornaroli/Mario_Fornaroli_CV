@@ -35,3 +35,13 @@ C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\Mario Fornaroli CV Site\
 C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.dll
 C:\Mario\Training\Exercices\MVC\Mario Fornaroli CV Site\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.pdb
 D:\Mario\Websites\Mario Fornaroli CV\Mario Fornaroli CV Site\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\bin\Debug\Resources.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\bin\Debug\Resources.pdb
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\bin\Debug\it\Resources.resources.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Debug\Resources.Resources.resources
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Debug\Resources.Resources.it.resources
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Debug\it\Resources.resources.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Debug\Resources.dll
+C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Debug\Resources.pdb
