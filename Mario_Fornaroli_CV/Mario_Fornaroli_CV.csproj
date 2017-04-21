@@ -147,6 +147,7 @@
     <Content Include="Content\img\1.jpg" />
     <Content Include="Content\img\2.jpg" />
     <Content Include="Content\img\3.jpg" />
+    <Content Include="Content\img\And_icon.png" />
     <Content Include="Content\img\body-bg%402x.png" />
     <Content Include="Content\img\body-bg.png" />
     <Content Include="Content\img\ch_ex1.png" />
@@ -172,6 +173,8 @@
     <Content Include="Content\img\icons\rss.png" />
     <Content Include="Content\img\icons\twitte%40x2r.png" />
     <Content Include="Content\img\icons\twitter.png" />
+    <Content Include="Content\img\Ios_icon.png" />
+    <Content Include="Content\img\Ios_icon_white-back.png" />
     <Content Include="Content\img\IronPython_Logo.jpg" />
     <Content Include="Content\img\istqb_logo.gif" />
     <Content Include="Content\img\LeclNotes_Img.jpg" />
@@ -183,6 +186,7 @@
     <Content Include="Content\img\Mario_Fornaroli.jpg" />
     <Content Include="Content\img\MS_Cert_Professional_logo_Wht_rgb.jpg" />
     <Content Include="Content\img\Other_Projects_Img.jpg" />
+    <Content Include="Content\img\pax_app.png" />
     <Content Include="Content\img\P_AllDocs_And_Buttons.png" />
     <Content Include="Content\img\p_mob.jpg" />
     <Content Include="favicon.ico" />

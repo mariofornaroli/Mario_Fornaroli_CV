@@ -540,4 +540,7 @@ I do daily use (or used in previous projects) various other tool such as automat
   <data name="projectsPorMobDescription5" xml:space="preserve">
     <value>Various Cordova Plugins (digital signature, camera, file system, white-list, etc...)</value>
   </data>
+  <data name="projectsPorMobSentence" xml:space="preserve">
+    <value>Mobile application to manage products in/out in logistic deposit.  It involves the following technologies:</value>
+  </data>
 </root>

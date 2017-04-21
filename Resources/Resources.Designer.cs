@@ -1060,6 +1060,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Mobile application to manage products in/out in logistic deposit.  It involves the following technologies:.
+        /// </summary>
+        public static string projectsPorMobSentence {
+            get {
+                return ResourceManager.GetString("projectsPorMobSentence", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Web application to manage products in/out in logistic deposit.  It involves the following technologies:.
         /// </summary>
         public static string projectsPorSentence {

@@ -540,4 +540,7 @@ Ovviamente nel quotidiano utilizzo una serie di altri strumenti come strumenti d
   <data name="projectsPorMobDescription5" xml:space="preserve">
     <value>Vari Cordova Plugins (digital signature, camera, file system, white-list, etc...)</value>
   </data>
+  <data name="projectsPorMobSentence" xml:space="preserve">
+    <value>Mobile app per la gestione dei prodotti di una logistica.  Utilizza le seguenti tecnologie:</value>
+  </data>
 </root>
