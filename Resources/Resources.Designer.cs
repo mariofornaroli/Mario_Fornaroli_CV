@@ -1259,7 +1259,7 @@ namespace Resources {
         
         /// <summary>
         ///   Looks up a localized string similar to I’ve been working as web developer in different projects, mainly in assurance and logistic distribution domain.
-        ///I&apos;ve developed web application in form of Single Page Application and we mainly use the following stack:.
+        ///I&apos;ve developed web application in form of Single Page Application and we mainly use the following stack: mainly HTML5-CSS-Javascript, AngularJS and JQuery (client side) and .Net Web API, Asp .NET MVC, Entity Framework and SQL Server (server side)..
         /// </summary>
         public static string work_Euris1 {
             get {

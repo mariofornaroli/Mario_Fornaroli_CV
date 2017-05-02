@@ -629,6 +629,11 @@ body {
     padding-bottom: 5px;
 }
 
+img.get-from-shop {
+    margin-left: 20px;
+    height: 60px;
+}
+
 
 /*-----------------------------*\
 	$EDUCATION
@@ -1049,6 +1054,10 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 .labelsRow {
     margin-top: 15px;
+}
+
+.labelsRow.mt0 {
+    margin-top: 0px;
 }
 
 
