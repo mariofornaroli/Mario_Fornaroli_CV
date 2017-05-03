@@ -1278,7 +1278,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I’ve been working as developer in the software tool department. I developed tools for internal and external customers, mainly in the domain of cryptography and security..
+        ///   Looks up a localized string similar to I worked as developer in the software tool department. I developed web and desktop applications for internal and external customers, mainly in the domain of cryptography and security..
         /// </summary>
         public static string work_STM1 {
             get {
@@ -1287,7 +1287,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I mainly developed several Windows applications in .Net (c# WPF) and Dlls in C/C++. Some other smaller project I realized involved Delphi, and Python languages and Qt framework..
+        ///   Looks up a localized string similar to I mainly developed Windows applications in .Net (c# WPF) and Dlls in C/C++. Some other smaller project I realized involved Delphi, and Python languages and Qt framework..
         /// </summary>
         public static string work_STM2 {
             get {
@@ -1296,7 +1296,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Being passionate about web development, I decided to develop several web applications as freelance..
+        ///   Looks up a localized string similar to Being passionate about web development, I decided to develop web and mobile applications as freelance..
         /// </summary>
         public static string work_WebFreelance1 {
             get {

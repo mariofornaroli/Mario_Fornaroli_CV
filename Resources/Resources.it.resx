@@ -359,16 +359,16 @@
     <value>Ho lavorato presso il cliente, la banca Crédit Agricole.</value>
   </data>
   <data name="work_STM1" xml:space="preserve">
-    <value>Lavoro come sviluppatore software nel dipartimento Software Tool Department. Ho programmato applicazioni per clienti interni ed esterni, principalmente nel settore della sicurezza e della crittografia.</value>
+    <value>Ho lavorato come sviluppatore software nel dipartimento Software Tool Department. Ho programmato applicazioni web e desktop per clienti interni ed esterni, principalmente nel settore della sicurezza e della crittografia.</value>
   </data>
   <data name="work_STM2" xml:space="preserve">
     <value>Ho sviluppato diverse applicazioni Windows in .Net (C# WPF). Tra gli altri progetti realizzati vi è lo sviluppo di DLLs a moduli in C/C++. Sono anche stato coinvolto in progetti in cui i linguaggi utilizzati erano Delphi, Python ed il framework Qt.</value>
   </data>
   <data name="work_WebFreelance1" xml:space="preserve">
-    <value>Essendo appassionato di sviluppo web, ho deciso di sviluppare applicazioni web come seconda attività.</value>
+    <value>Essendo appassionato di sviluppo web, ho deciso di sviluppare applicazioni web e mobile come seconda attività.</value>
   </data>
   <data name="work_WebFreelance2" xml:space="preserve">
-    <value>Ho principalmente utilizzato tecnologia Asp .NET MVC, Entity Framework and SQL Server (lato server), e HTML5-CSS-Javascript, AngularJS e JQuery (lato cliente).</value>
+    <value>Ho principalmente utilizzato tecnologia Asp .NET MVC, Entity Framework and SQL Server (lato server), e HTML5-CSS-Javascript, AngularJS e JQuery (lato cliente). </value>
   </data>
   <data name="close" xml:space="preserve">
     <value>Chiudi</value>
