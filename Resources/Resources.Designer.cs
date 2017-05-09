@@ -88,7 +88,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I’ve been working as software developer for 7 years and particularly as web developer for the last 4 years in different European cities..
+        ///   Looks up a localized string similar to I’ve been working as software developer for 8 years and particularly as web and mobile developer for the last 5 years in different European cities..
         /// </summary>
         public static string aboutMe_Sentence_3 {
             get {
