@@ -551,6 +551,10 @@ body {
     background-color: #009ED5;
 }
 
+.label_Mobile {
+    background-color: #FF7421;
+}
+
 .label_LowLevelLanguage {
     background-color: #FF7421;
 }
@@ -1002,10 +1006,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 .projectDescriptionTitle {
     font-family: 'Arvo', serif;
-    font-size: 2.4em;
+    font-size: 2.2em;
     font-weight: normal;
     color: #464646;
     margin-left: 10px;
+    line-height: 22px;
 }
 
 .projectDescription {

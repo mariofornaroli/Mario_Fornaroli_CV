@@ -551,6 +551,10 @@ body {
     background-color: #009ED5;
 }
 
+.label_Mobile {
+    background-color: #FFB300;
+}
+
 .label_LowLevelLanguage {
     background-color: #FF7421;
 }
@@ -569,7 +573,7 @@ body {
 }
 
     .experience p, .education p {
-        color: #c0c0c0;
+        color: #8e8d8d;
     }
 
 .period {
@@ -706,7 +710,7 @@ img.get-from-shop {
 }
 
     .blog p {
-        color: #c0c0c0;
+        color: #8e8d8d;
     }
 
     .blog header {

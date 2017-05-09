@@ -481,7 +481,7 @@ I do daily use (or used in previous projects) various other tool such as automat
     <value>AngularJs / KnockoutJs + ASP MVC + WCF (insurance domain)</value>
   </data>
   <data name="porTitle" xml:space="preserve">
-    <value>AngularJs + ASP MVC + Web API (logistical domain)</value>
+    <value>AngularJs + ASP MVC + Web API - Logistical domain</value>
   </data>
   <data name="projectChDescription1" xml:space="preserve">
     <value>.NET Asp MVC</value>
@@ -529,18 +529,33 @@ I do daily use (or used in previous projects) various other tool such as automat
     <value>AngularJs + Web API</value>
   </data>
   <data name="porMobTitle" xml:space="preserve">
-    <value>Cordova Android and potentially Ios app (logistical domain)</value>
+    <value>Cordova Android and potentially Ios app - Logistical domain</value>
   </data>
   <data name="projectsHDescription4" xml:space="preserve">
     <value>UX professionally designed - Material Design</value>
   </data>
   <data name="projectsPorMobDescription4" xml:space="preserve">
-    <value>Online and Offline management</value>
+    <value>Online and Offline functioning</value>
   </data>
   <data name="projectsPorMobDescription5" xml:space="preserve">
     <value>Various Cordova Plugins (digital signature, camera, file system, white-list, etc...)</value>
   </data>
   <data name="projectsPorMobSentence" xml:space="preserve">
     <value>Mobile application to manage products in/out in logistic deposit.  It involves the following technologies:</value>
+  </data>
+  <data name="myExpertise_Sentence_Mobile" xml:space="preserve">
+    <value>I have worked also on mobile development projects, targeting Android platform mainly. Coming from a web-developer background it was a natural choice to select multi-platform technology web based as Cordova, with the support of Ionic Framework (using several plugins to reach native functionalities).</value>
+  </data>
+  <data name="paxMobTitle" xml:space="preserve">
+    <value>Cordova Android and potentially Ios app - Bookstore domain</value>
+  </data>
+  <data name="projectsPaxMobSentence" xml:space="preserve">
+    <value>Bookshop application (Bookstore PAX – Liege, Belgium). It displays different bookshop sections directly linked to bookshop database and websites (best-sellers, events, suggestions, notifications, research book, etc..)</value>
+  </data>
+  <data name="projectsPorMobIonicAssetns1" xml:space="preserve">
+    <value>Ionic Framework</value>
+  </data>
+  <data name="projectsPorMobNotifications" xml:space="preserve">
+    <value>Push Notifications</value>
   </data>
 </root>

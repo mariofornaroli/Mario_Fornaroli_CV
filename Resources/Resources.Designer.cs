@@ -772,6 +772,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to I have worked also on mobile development projects, targeting Android platform mainly. Coming from a web-developer background it was a natural choice to select multi-platform technology web based as Cordova, with the support of Ionic Framework (using several plugins to reach native functionalities)..
+        /// </summary>
+        public static string myExpertise_Sentence_Mobile {
+            get {
+                return ResourceManager.GetString("myExpertise_Sentence_Mobile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Name.
         /// </summary>
         public static string name {
@@ -871,6 +880,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Cordova Android and potentially Ios app - Bookstore domain.
+        /// </summary>
+        public static string paxMobTitle {
+            get {
+                return ResourceManager.GetString("paxMobTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Hi, I&apos;m a software engineer and I love everything related to software development for web and mobile platforms..
         /// </summary>
         public static string pesentingSentence {
@@ -880,7 +898,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Cordova Android and potentially Ios app (logistical domain).
+        ///   Looks up a localized string similar to Cordova Android and potentially Ios app - Logistical domain.
         /// </summary>
         public static string porMobTitle {
             get {
@@ -889,7 +907,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to AngularJs + ASP MVC + Web API (logistical domain).
+        ///   Looks up a localized string similar to AngularJs + ASP MVC + Web API - Logistical domain.
         /// </summary>
         public static string porTitle {
             get {
@@ -997,6 +1015,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Bookshop application (Bookstore PAX – Liege, Belgium). It displays different bookshop sections directly linked to bookshop database and websites (best-sellers, events, suggestions, notifications, research book, etc..).
+        /// </summary>
+        public static string projectsPaxMobSentence {
+            get {
+                return ResourceManager.GetString("projectsPaxMobSentence", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Web portal to manage a logistic deposit.
         /// </summary>
         public static string projectsPor {
@@ -1042,7 +1069,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Online and Offline management.
+        ///   Looks up a localized string similar to Online and Offline functioning.
         /// </summary>
         public static string projectsPorMobDescription4 {
             get {
@@ -1056,6 +1083,24 @@ namespace Resources {
         public static string projectsPorMobDescription5 {
             get {
                 return ResourceManager.GetString("projectsPorMobDescription5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ionic Framework.
+        /// </summary>
+        public static string projectsPorMobIonicAssetns1 {
+            get {
+                return ResourceManager.GetString("projectsPorMobIonicAssetns1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Push Notifications.
+        /// </summary>
+        public static string projectsPorMobNotifications {
+            get {
+                return ResourceManager.GetString("projectsPorMobNotifications", resourceCulture);
             }
         }
         
