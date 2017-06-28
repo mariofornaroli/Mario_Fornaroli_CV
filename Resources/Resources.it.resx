@@ -170,7 +170,7 @@
     <value>Francese</value>
   </data>
   <data name="frenchKnowledgeDescription" xml:space="preserve">
-    <value>Ho vissuto in Francia e in Belgio negli ultimi 5 anni. Avendo una moglie belga francofona, lo parlo quotidianamente.</value>
+    <value>Ho vissuto in Francia e in Belgio per un totale di 6 anni. Avendo una moglie belga francofona, lo parlo quotidianamente.</value>
   </data>
   <data name="good" xml:space="preserve">
     <value>Buono</value>
@@ -320,7 +320,7 @@
     <value>Tesi specialistica dal titolo “Processing of Hyperspectral Remote Sensing data” svolta all’Università di Extremadura, Spagna con la supervisione del Prof. P.Gamba dell’Università di Pavia, Italia e del Prof. A.Plaza dell’Università di Extremadura, Spagna.</value>
   </data>
   <data name="myExpertise_Sentence_1" xml:space="preserve">
-    <value>Nella mia carriera lavorativa ho sviluppato diverse applicazioni web, lavorando principalmente con le seguenti tecnologie: AngularJS, e ovviamente Jquery-html5-css3-js, (lato frontend) e tecnologie .Net, come Web API/Asp MVC - Entity Framework – Microsoft Sql server  (lato backend).</value>
+    <value>Nella mia carriera lavorativa ho sviluppato diverse applicazioni web, lavorando principalmente con le seguenti tecnologie: AngularJS, Angular 2, e ovviamente Jquery-html5-css3-js, (lato frontend) e tecnologie .Net, come Web API/Asp MVC - Entity Framework – Microsoft Sql server  (lato backend).</value>
   </data>
   <data name="myExpertise_Sentence_2" xml:space="preserve">
     <value>Nei primi anni ho anche sviluppato applicazioni desktop (principalmente con C# WPF), applicazioni multi-platform (C++ Qt framework per Linux), spesso nel campo della sicurezza e della crittografia, e DLLs (linguaggio C/C++) per comunicare con dispositivi esterni attraverso API.</value>
@@ -329,7 +329,7 @@
     <value>Ho anche sviluppato DLLs (linguaggio C/C++) per comunicare con dispositivi esterni attraverso API. Ho sviluppato due di moduli (linguaggio C) da installare in un HSM (Hardware Security Module) nel dominio della crittografia per applicazioni di autentificazione e sicurezza.</value>
   </data>
   <data name="myExpertise_Sentence_4" xml:space="preserve">
-    <value>Mi piace molto lavorare con Visual Studio! E’ il mio IDE preferito. Ho anche lavorato in altri progetti con Qt Creator e Borland/Embarcadero.</value>
+    <value>Mi piace molto lavorare con Visual Studio e Visual Studio Code! Sono i miei IDE preferiti. Ho anche lavorato in altri progetti con Qt Creator e Borland/Embarcadero.</value>
   </data>
   <data name="myExpertise_Sentence_5a" xml:space="preserve">
     <value>Il mio lavoro mi appassiona!</value>
@@ -362,10 +362,10 @@
     <value>Ho lavorato come sviluppatore software nel dipartimento Software Tool Department. Ho programmato applicazioni web e desktop per clienti interni ed esterni, principalmente nel settore della sicurezza e della crittografia.</value>
   </data>
   <data name="work_STM2" xml:space="preserve">
-    <value>Ho sviluppato diverse applicazioni Windows in .Net (C# WPF). Tra gli altri progetti realizzati vi è lo sviluppo di DLLs a moduli in C/C++. Sono anche stato coinvolto in progetti in cui i linguaggi utilizzati erano Delphi, Python ed il framework Qt.</value>
+    <value>Ho anche sviluppato applicazioni Windows in .Net. Tra gli altri progetti realizzati vi è lo sviluppo di DLLs a moduli in C/C++. Sono anche stato coinvolto in progetti in cui i linguaggi utilizzati erano Delphi, Python ed il framework Qt.</value>
   </data>
   <data name="work_WebFreelance1" xml:space="preserve">
-    <value>Essendo appassionato di sviluppo web, ho deciso di sviluppare applicazioni web e mobile come seconda attività.</value>
+    <value>Essendo appassionato di sviluppo web, ho deciso di sviluppare applicazioni web e mobile come seconda attività, quando possibile :-).</value>
   </data>
   <data name="work_WebFreelance2" xml:space="preserve">
     <value>Ho principalmente utilizzato tecnologia Asp .NET MVC, Entity Framework and SQL Server (lato server), e HTML5-CSS-Javascript, AngularJS e JQuery (lato cliente). </value>
@@ -428,7 +428,7 @@
     <value>Si è verificato un errore. Verifica che tutti i campi siano correttamente completati e prova a ritrasmettere il messaggio. &lt;br/&gt;In alternativa, contattami direttamente all’indirizzo &lt;a href= \"mailto:mario.fornaroli@yahoo.it\" &gt;mario.fornaroli@yahoo.it&lt;/a&gt;</value>
   </data>
   <data name="mailTxSuccess" xml:space="preserve">
-    <value>Messaggio ricevuto correttamente, grazie.</value>
+    <value>Messaggio inviato correttamente, grazie.</value>
   </data>
   <data name="cryptoPlayerDescription1" xml:space="preserve">
     <value>CryptoPlayer e' una calcolatrice crittografica. Permette di eseguire diverse operazioni di crittografia. Algoritmi simmetrici ed asimmetrici. Funzioni di hashing. Generazione di chiavi RSA. Parsing, validazione e modifica dei certificati SSL.</value>
@@ -468,11 +468,11 @@
   </data>
   <data name="work_Euris1" xml:space="preserve">
     <value>Lavoro come web developer in diversi progetti, soprattutto per applicazioni web nel campo delle assicurazioni e della logistica.
-Sviluppio in team applicazioni web di tipo Single Page Application utilizzando principalmente spesso il seguente stack tecnologico: principalmente HTML5-CSS-Javascript, AngularJS e JQuery (lato cliente) e .Net Web API, Asp .NET MVC, Entity Framework and SQL Server (lato server).</value>
+Sviluppio in team applicazioni web di tipo Single Page Application utilizzando principalmente spesso il seguente stack tecnologico: principalmente HTML5-CSS-Javascript, AngularJS, Angular 2 e JQuery (lato cliente) e .Net Web API, Asp .NET MVC, Entity Framework and SQL Server (lato server).</value>
   </data>
   <data name="work_Euris2" xml:space="preserve">
-    <value>l'IDE che utilizzo è Visual Studio. E' l'ambiente di sviluppo che preferisco!
-Ovviamente nel quotidiano utilizzo una serie di altri strumenti come strumenti di automatizzazione dei task (ex.Gulp), Framework per documentare e testare le web API(ex.Swagger), sistemi di versioning (ex.TFS), etc... nella sezione progetti vi è una visualizzazione più esaustiva dei differenti strumenti che utilizzo nei vari progetti.</value>
+    <value>Gli IDE che utilizzo sono Visual Studio e Visual Studio Code.
+Ovviamente nel quotidiano utilizzo una serie di altri strumenti come strumenti di automatizzazione dei task (ex.Gulp), Framework per documentare e testare le web API(ex.Swagger), sistemi di versioning (ex.TFS, GIT), etc... nella sezione progetti vi è una visualizzazione più esaustiva dei differenti strumenti che utilizzo nei vari progetti.</value>
   </data>
   <data name="elctrAndIctEngineeringTitle" xml:space="preserve">
     <value>Ingegneria Elettronica e delle Telecomunicazioni</value>
@@ -544,7 +544,7 @@ Ovviamente nel quotidiano utilizzo una serie di altri strumenti come strumenti d
     <value>Mobile app per la gestione dei prodotti di una logistica.  Utilizza le seguenti tecnologie:</value>
   </data>
   <data name="myExpertise_Sentence_Mobile" xml:space="preserve">
-    <value>Ho avuto l'opportunità di sviluppare applicazion mobile, principalmente per Android. Avendo un background web-developer, la scelta naturale è stata di utilizzare una tecnologia multi-platform web-based, Cordova con il supporto di Ionic (utilizzando ovviamente i molti plugin che permettono di implementare le funzionalità native nelle varie piattaforme).</value>
+    <value>Ho avuto l'opportunità di sviluppare applicazioni mobile, principalmente per Android. Avendo un background web-developer, la scelta naturale è stata di utilizzare una tecnologia multi-platform web-based, Cordova con il supporto di Ionic (utilizzando ovviamente i molti plugin che permettono di implementare le funzionalità native nelle varie piattaforme).</value>
   </data>
   <data name="paxMobTitle" xml:space="preserve">
     <value>Applicazione Cordova Android e potenzialmente Ios - Dominio librerie e negozi</value>
@@ -557,5 +557,8 @@ Ovviamente nel quotidiano utilizzo una serie di altri strumenti come strumenti d
   </data>
   <data name="projectsPorMobNotifications" xml:space="preserve">
     <value>Push Notifications</value>
+  </data>
+  <data name="projectsPorMobDescription4b" xml:space="preserve">
+    <value>Ionic Material</value>
   </data>
 </root>

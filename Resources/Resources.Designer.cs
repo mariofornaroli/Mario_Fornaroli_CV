@@ -457,7 +457,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I&apos;ve been living in France and Belgium for the last 5 years. Moreover, having a French speaking wife, I speak French every day..
+        ///   Looks up a localized string similar to I lived in France and Belgium for 6 years. Moreover, having a French speaking wife, I speak French every day..
         /// </summary>
         public static string frenchKnowledgeDescription {
             get {
@@ -718,7 +718,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to During my work experience I have developed various web applications, mainly working with the following technologies:  AngularJS, plus obviously Jquery-html5-css3-js, (frontend side) and .Net technologies, such as Web API/Asp MVC - Entity Framework – Microsoft Sql server (backend side)..
+        ///   Looks up a localized string similar to During my work experience I have developed various web applications, mainly working with the following technologies:  AngularJS and Angular 2, plus obviously Jquery-html5-css3-js, (frontend side) and .Net technologies, such as Web API/Asp MVC - Entity Framework – Microsoft Sql server (backend side)..
         /// </summary>
         public static string myExpertise_Sentence_1 {
             get {
@@ -745,7 +745,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I enjoy a lot working with Microsoft Visual Studio! It is my favorite IDE. I also developed some project with Qt Creator and Borland/Embarcadero..
+        ///   Looks up a localized string similar to I enjoy a lot working with Microsoft Visual Studio and Visual Studio Code, depending on the project! They are my favorite IDE. I also developed some project with Qt Creator and Borland/Embarcadero..
         /// </summary>
         public static string myExpertise_Sentence_4 {
             get {
@@ -1078,6 +1078,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Ionic Material.
+        /// </summary>
+        public static string projectsPorMobDescription4b {
+            get {
+                return ResourceManager.GetString("projectsPorMobDescription4b", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Various Cordova Plugins (digital signature, camera, file system, white-list, etc...).
         /// </summary>
         public static string projectsPorMobDescription5 {
@@ -1304,7 +1313,7 @@ namespace Resources {
         
         /// <summary>
         ///   Looks up a localized string similar to I’ve been working as web developer in different projects, mainly in assurance and logistic distribution domain.
-        ///I&apos;ve developed web application in form of Single Page Application and we mainly use the following stack: mainly HTML5-CSS-Javascript, AngularJS and JQuery (client side) and .Net Web API, Asp .NET MVC, Entity Framework and SQL Server (server side)..
+        ///I&apos;ve developed web application in form of Single Page Application and we mainly use the following stack: mainly HTML5-CSS-Javascript, AngularJS, Angular 2 and JQuery (client side) and .Net Web API, Asp .NET MVC, Entity Framework and SQL Server (server side)..
         /// </summary>
         public static string work_Euris1 {
             get {
@@ -1313,7 +1322,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The IDE I mainly use is Visual Studio. It’s my favorite one!
+        ///   Looks up a localized string similar to The IDE I mainly use are Visual Studio and Visual Studio Code.
         ///I do daily use (or used in previous projects) various other tool such as automated task-runners, framework to document and test API’s, versioning tool, etc.. .
         /// </summary>
         public static string work_Euris2 {
@@ -1332,7 +1341,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I mainly developed Windows applications in .Net (c# WPF) and Dlls in C/C++. Some other smaller project I realized involved Delphi, and Python languages and Qt framework..
+        ///   Looks up a localized string similar to I mainly developed Windows applications in .Net and Dlls in C/C++. Some other smaller project I realized involved Delphi, and Python languages and Qt framework..
         /// </summary>
         public static string work_STM2 {
             get {
@@ -1341,7 +1350,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Being passionate about web development, I decided to develop web and mobile applications as freelance..
+        ///   Looks up a localized string similar to Being passionate about web development, I decided to develop web and mobile applications as freelance, when possible :-)..
         /// </summary>
         public static string work_WebFreelance1 {
             get {

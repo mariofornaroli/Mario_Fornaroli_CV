@@ -115,6 +115,7 @@
                 </article>
                 <div class="span4 skill_level">
                     <span class="labelMFO label_Web">AngularJs</span>
+                    <span class="labelMFO label_Web">Angular 2</span>
                     <span class="labelMFO label_Web">Web API</span>
                     <span class="labelMFO label_Web">ASP MVC</span>
                     <span class="labelMFO label_Web">Entity Framework</span>
@@ -134,7 +135,7 @@
                     <span class="labelMFO label_Mobile">Ionic</span>
                     <span class="labelMFO label_Mobile">Material Design</span>
                     <span class="labelMFO label_Mobile">VS Code</span>
-                    <span class="labelMFO label_Mobile">Cordova Plugins</span>
+                    <span class="labelMFO label_Mobile">Azure</span>
                 </div>
             </section> <!-- /Mobile expertise -->
 
@@ -169,6 +170,7 @@
                 </article>
                 <div class="span4 skill_level skill_level_IDE">
                     <span class="labelMFO label_IDE">Visual Studio</span>
+                    <span class="labelMFO label_IDE">Visual Studio Code</span>
                     <span class="labelMFO label_IDE">Qt Creator</span>
                     <span class="labelMFO label_IDE">Embarcadero</span>
                 </div>
@@ -305,6 +307,7 @@
         </div>
     </section> <!-- /education -->
     <!-- end EDUCATION -->
+
     <!-- PORTFOLIO -->
     <section class="row-fluid portfolio" id="portfolio">
         <aside class="span3 aside_el">
@@ -327,6 +330,7 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                     <h4 class="modal-title projectDescriptionTitle" id="myModalLabel">@Resources.hTitle</h4>
                                 </div>
                                 <div class="modal-body projectDescription">
@@ -376,6 +380,7 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                     <h4 class="modal-title projectDescriptionTitle" id="myModalLabel">@Resources.porTitle</h4>
                                 </div>
                                 <div class="modal-body projectDescription">
@@ -424,6 +429,7 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                     <h4 class="modal-title projectDescriptionTitle" id="myModalLabel">@Resources.porMobTitle</h4>
                                 </div>
                                 <div class="modal-body projectDescription">
@@ -438,20 +444,19 @@
                                 </div>
                                 <div class="row labelsRow">
                                     <div class="projectLabels">
+                                        <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">Cordova</span>
                                         <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">AngularJs</span>
                                         <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">.NET Web API</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">jQuery</span>
                                         <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">HTML5</span>
                                         <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">CSS3</span>
                                         <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">Javascript</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">Bootstrap </span>
+                                        <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">Gulp</span>
                                         <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">C#</span>
                                         <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">NLog</span>
                                         <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">SQL Server</span>
                                         <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">Entity Framework</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">ADO .NET</span>
+                                        <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">Swagger</span>
                                         <span class="labelMFO labelMFOProjectDescription label_IDE labelModal pull-left">Visual Studio</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_IDE labelModal pull-left">Swagger</span>
                                         <span class="labelMFO labelMFOProjectDescription label_IDE labelModal pull-left">SQL Management Studio</span>
                                         <span class="labelMFO labelMFOProjectDescription label_IDE labelModal pull-left">SoapUI</span>
                                     </div>
@@ -480,15 +485,17 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h4 class="modal-title projectDescriptionTitle" id="myModalLabel">@Resources.porMobTitle</h4>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                    <h4 class="modal-title projectDescriptionTitle" id="myModalLabel">@Resources.paxMobTitle</h4>
                                 </div>
                                 <div class="modal-body projectDescription">
-                                    <div>@Resources.projectsPorMobSentence</div>
+                                    <div>@Resources.projectsPaxMobSentence</div>
                                     <ul>
                                         <li>@Resources.projectsPorDescription1</li>
                                         <li>@Resources.projectsPorDescription2</li>
                                         <li>@Resources.projectsPorDescription3</li>
-                                        <li>@Resources.projectsPorMobDescription4</li>
+                                        <li>@Resources.projectsPorMobNotifications</li>
+                                        <li>@Resources.projectsPorMobDescription4b</li>
                                         <li>@Resources.projectsPorMobDescription5</li>
                                     </ul>
 
@@ -501,22 +508,18 @@
                                 </div>
                                 <div class="row labelsRow mt0">
                                     <div class="projectLabels">
+                                        <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">Cordova</span>
+                                        <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">Ionic</span>
                                         <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">AngularJs</span>
                                         <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">.NET Web API</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">jQuery</span>
                                         <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">HTML5</span>
                                         <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">CSS3</span>
                                         <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">Javascript</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_Web labelModal pull-left">Bootstrap </span>
+                                        <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">Gulp</span>
                                         <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">C#</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">NLog</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">SQL Server</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">Entity Framework</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">ADO .NET</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_IDE labelModal pull-left">Visual Studio</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_IDE labelModal pull-left">Swagger</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_IDE labelModal pull-left">SQL Management Studio</span>
-                                        <span class="labelMFO labelMFOProjectDescription label_IDE labelModal pull-left">SoapUI</span>
+                                        <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">Push Notifications</span>
+                                        <span class="labelMFO labelMFOProjectDescription label_LowLevelLanguage labelModal pull-left">Swagger Notifications</span>
+                                        <span class="labelMFO labelMFOProjectDescription label_IDE labelModal pull-left">VS Code</span>
                                     </div>
                                 </div>
                                 <div class="modal-footer">
@@ -537,6 +540,7 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                     <h4 class="modal-title projectDescriptionTitle" id="myModalLabel">@Resources.chTitle</h4>
                                 </div>
                                 <div class="modal-body projectDescription">
@@ -587,6 +591,7 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                     <h4 class="modal-title projectDescriptionTitle" id="myModalLabel">@Resources.cryptoPlayerWebApplication</h4>
                                 </div>
                                 <div class="modal-body projectDescription">
@@ -628,6 +633,7 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                     <h4 class="modal-title projectDescriptionTitle" id="myModalLabel">@Resources.leclNotesWebApplication</h4>
                                 </div>
                                 <div class="modal-body projectDescription">
@@ -666,6 +672,7 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                     <h4 class="modal-title projectDescriptionTitle" id="myModalLabel">@Resources.cSharpDotNetApplications</h4>
                                 </div>
                                 <div class="modal-body projectDescription">
@@ -710,6 +717,7 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                     <h4 class="modal-title projectDescriptionTitle" id="myModalLabel">@Resources.ironPythonForTesting</h4>
                                 </div>
                                 <div class="modal-body projectDescription">
@@ -757,6 +765,7 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                     <h4 class="modal-title projectDescriptionTitle" id="myModalLabel">@Resources.CandCppDllDevelopment</h4>
                                 </div>
                                 <div class="modal-body projectDescription">
@@ -790,6 +799,7 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                     <h4 class="modal-title projectDescriptionTitle" id="myModalLabel">@Resources.otherTechnologies</h4>
                                 </div>
                                 <div class="modal-body projectDescription">

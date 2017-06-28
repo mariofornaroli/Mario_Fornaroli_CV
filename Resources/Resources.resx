@@ -170,7 +170,7 @@
     <value>French</value>
   </data>
   <data name="frenchKnowledgeDescription" xml:space="preserve">
-    <value>I've been living in France and Belgium for the last 5 years. Moreover, having a French speaking wife, I speak French every day.</value>
+    <value>I lived in France and Belgium for 6 years. Moreover, having a French speaking wife, I speak French every day.</value>
   </data>
   <data name="good" xml:space="preserve">
     <value>Good</value>
@@ -320,7 +320,7 @@
     <value>Master thesis on “Processing of Hyperspectral Remote Sensing data” at University of Extremadura, Spain  (supervisors Prof. P.Gamba from University of Pavia-Italy and Prof. A.Plaza from University of Extremadura-Spain).</value>
   </data>
   <data name="myExpertise_Sentence_1" xml:space="preserve">
-    <value>During my work experience I have developed various web applications, mainly working with the following technologies:  AngularJS, plus obviously Jquery-html5-css3-js, (frontend side) and .Net technologies, such as Web API/Asp MVC - Entity Framework – Microsoft Sql server (backend side).</value>
+    <value>During my work experience I have developed various web applications, mainly working with the following technologies:  AngularJS and Angular 2, plus obviously Jquery-html5-css3-js, (frontend side) and .Net technologies, such as Web API/Asp MVC - Entity Framework – Microsoft Sql server (backend side).</value>
   </data>
   <data name="myExpertise_Sentence_2" xml:space="preserve">
     <value>In my first years I also developed Windows applications (mainly C# .Net with WPF), multi-platform applications (C++ Qt framework for Linux), often in the domain of cryptography and security, and I DLLs (C/C++ language) to communicate with external devices through API.</value>
@@ -329,7 +329,7 @@
     <value>I have also developed DLLs (C/C++ language) to communicate with external devices through API. I developed a couple of modules (C language) to embed in a Hardware Security Module in the domain of cryptography for the brand protection market.</value>
   </data>
   <data name="myExpertise_Sentence_4" xml:space="preserve">
-    <value>I enjoy a lot working with Microsoft Visual Studio! It is my favorite IDE. I also developed some project with Qt Creator and Borland/Embarcadero.</value>
+    <value>I enjoy a lot working with Microsoft Visual Studio and Visual Studio Code, depending on the project! They are my favorite IDE. I also developed some project with Qt Creator and Borland/Embarcadero.</value>
   </data>
   <data name="myExpertise_Sentence_5a" xml:space="preserve">
     <value>I am passionate about my job!</value>
@@ -362,10 +362,10 @@
     <value>I worked as developer in the software tool department. I developed web and desktop applications for internal and external customers, mainly in the domain of cryptography and security.</value>
   </data>
   <data name="work_STM2" xml:space="preserve">
-    <value>I mainly developed Windows applications in .Net (c# WPF) and Dlls in C/C++. Some other smaller project I realized involved Delphi, and Python languages and Qt framework.</value>
+    <value>I mainly developed Windows applications in .Net and Dlls in C/C++. Some other smaller project I realized involved Delphi, and Python languages and Qt framework.</value>
   </data>
   <data name="work_WebFreelance1" xml:space="preserve">
-    <value>Being passionate about web development, I decided to develop web and mobile applications as freelance.</value>
+    <value>Being passionate about web development, I decided to develop web and mobile applications as freelance, when possible :-).</value>
   </data>
   <data name="work_WebFreelance2" xml:space="preserve">
     <value>I mainly work with Asp .NET MVC, Entity Framework and SQL Server (server side), and HTML5-CSS-Javascript, AngularJS and JQuery (client side).</value>
@@ -468,10 +468,10 @@
   </data>
   <data name="work_Euris1" xml:space="preserve">
     <value>I’ve been working as web developer in different projects, mainly in assurance and logistic distribution domain.
-I've developed web application in form of Single Page Application and we mainly use the following stack: mainly HTML5-CSS-Javascript, AngularJS and JQuery (client side) and .Net Web API, Asp .NET MVC, Entity Framework and SQL Server (server side).</value>
+I've developed web application in form of Single Page Application and we mainly use the following stack: mainly HTML5-CSS-Javascript, AngularJS, Angular 2 and JQuery (client side) and .Net Web API, Asp .NET MVC, Entity Framework and SQL Server (server side).</value>
   </data>
   <data name="work_Euris2" xml:space="preserve">
-    <value>The IDE I mainly use is Visual Studio. It’s my favorite one!
+    <value>The IDE I mainly use are Visual Studio and Visual Studio Code.
 I do daily use (or used in previous projects) various other tool such as automated task-runners, framework to document and test API’s, versioning tool, etc.. </value>
   </data>
   <data name="elctrAndIctEngineeringTitle" xml:space="preserve">
@@ -557,5 +557,8 @@ I do daily use (or used in previous projects) various other tool such as automat
   </data>
   <data name="projectsPorMobNotifications" xml:space="preserve">
     <value>Push Notifications</value>
+  </data>
+  <data name="projectsPorMobDescription4b" xml:space="preserve">
+    <value>Ionic Material</value>
   </data>
 </root>

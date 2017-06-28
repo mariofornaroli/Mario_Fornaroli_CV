@@ -18,3 +18,13 @@ C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Rel
 C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\Resources.dll
 C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\Resources.pdb
 C:\mfo\Personal\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Release\Resources.csprojResolveAssemblyReference.cache
+E:\Mario\Projects\Mario_Fornaroli_CV\Resources\bin\Release\Resources.dll
+E:\Mario\Projects\Mario_Fornaroli_CV\Resources\bin\Release\Resources.pdb
+E:\Mario\Projects\Mario_Fornaroli_CV\Resources\bin\Release\it\Resources.resources.dll
+E:\Mario\Projects\Mario_Fornaroli_CV\Resources\obj\Release\Resources.csprojResolveAssemblyReference.cache
+E:\Mario\Projects\Mario_Fornaroli_CV\Resources\obj\Release\Resources.Resources.resources
+E:\Mario\Projects\Mario_Fornaroli_CV\Resources\obj\Release\Resources.Resources.it.resources
+E:\Mario\Projects\Mario_Fornaroli_CV\Resources\obj\Release\Resources.csproj.GenerateResource.Cache
+E:\Mario\Projects\Mario_Fornaroli_CV\Resources\obj\Release\it\Resources.resources.dll
+E:\Mario\Projects\Mario_Fornaroli_CV\Resources\obj\Release\Resources.dll
+E:\Mario\Projects\Mario_Fornaroli_CV\Resources\obj\Release\Resources.pdb

@@ -233,7 +233,9 @@
     <Content Include="Content\Pdf_CV\CV Ing. Mario Fornaroli.doc" />
     <None Include="Project_Readme.html" />
     <None Include="Properties\PublishProfiles\mariofornarolicv %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\mariofornarolicv - FTP %283%29.pubxml" />
     <None Include="Properties\PublishProfiles\mariofornarolicv - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\mariofornarolicv - Web Deploy %283%29.pubxml" />
     <None Include="Properties\PublishProfiles\mariofornarolicv - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\mariofornarolicv.pubxml" />
   </ItemGroup>
@@ -242,6 +244,9 @@
       <Project>{c3605c01-77c6-4050-b98c-3b01e2a0bbbd}</Project>
       <Name>Resources</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

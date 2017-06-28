@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="mariofornarolicv" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\mfo\\Personal\\Projects\\Mario_Fornaroli_CV\\Mario_Fornaroli_CV\\Mario_Fornaroli_CV\\obj\\Release\\Package\\PackageTmp$" />
-    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\mfo\\Personal\\Projects\\Mario_Fornaroli_CV\\Mario_Fornaroli_CV\\Mario_Fornaroli_CV\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\Mario\\Projects\\Mario_Fornaroli_CV\\Mario_Fornaroli_CV\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\Mario\\Projects\\Mario_Fornaroli_CV\\Mario_Fornaroli_CV\\obj\\Release\\Package\\PackageTmp$" />
   </parameter>
 </parameters>
