@@ -44,7 +44,8 @@ namespace Mario_Fornaroli_CV.Controllers
         public ActionResult GetCvPdf()
         {
             string filename = "~/Content/Pdf_CV/CV Ing. Mario Fornaroli.pdf";
-            return File(filename, "application/pdf", Server.UrlEncode(filename));
+            return File(filename, "application/pdf", "Mario_Fornaroli_CV.pdf");
+            //return File(filename, "application/pdf", Server.UrlEncode(filename));
         }
 
         public ActionResult ContactMe(string form_name, string form_email, string form_message)
