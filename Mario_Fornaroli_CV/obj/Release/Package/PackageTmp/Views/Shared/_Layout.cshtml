@@ -1,6 +1,16 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112425697-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-112425697-1');
+    </script>
+
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta charset="utf-8">
     <title>Mario Fornaroli CV</title>
@@ -19,6 +29,7 @@
     @Styles.Render("~/Content/css")
 
 </head>
+
 <body>
     <div class="wrapper" id="wrapperId">
         <div class="container">
@@ -37,9 +48,9 @@
                     <li><a href="#contactNav">@Resources.contact</a></li>
                     <li id="liLocalisation">
                         <ul id="localisationContainer">
-                            @*<li id="enLangLi"><a id="enLang" href="#">En</a></li>
-                                <li id="itLangLi"><a id="itLang" href="#">It</a></li>*@
-                            @if (@Resources.lang == "English")
+                            <li id="enLangLi"><a id="enLang" class="activeLocalisation" href="#">En</a></li>
+                            @*<li id="itLangLi"><a id="itLang" href="#">It</a></li>*@
+                            @*@if (@Resources.lang == "English")
                             {
                                 <li id="enLangLi"><a id="enLang" class="activeLocalisation" href="#">En</a></li>
                                 <li id="itLangLi"><a id="itLang" href="#">It</a></li>
@@ -48,7 +59,7 @@
                             {
                                 <li id="enLangLi"><a id="enLang" href="#">En</a></li>
                                 <li id="itLangLi"><a id="itLang" class="activeLocalisation" href="#">It</a></li>
-                            }
+                            }*@
 
                             @*<li><a id="frLang" href="#">Fr</a></li>*@
                         </ul>

@@ -6,11 +6,11 @@
 
     <!-- ABOUT ME -->
     <section class="row-fluid about_me" id="about_me">
-        <aside class="span3 aside_el">
+        <aside class="span2 aside_el">
             <h2>@Resources.aboutMe</h2>
             @*<h5>professional profile<br /> and contact info</h5>*@
         </aside>
-        <article class="span6 borderleft par_el">
+        <article class="span7 borderleft par_el">
             <span class="circle"><img style="float:left; margin-top: -3px;" src="~/Content/img/MarioFornaroli_fotoCV.png" alt="" /></span>
             <p>@Resources.aboutMe_Sentence_1</p>
             <p>@Resources.aboutMe_Sentence_2</p>
@@ -36,9 +36,7 @@
                                 </span>
                             </div>
                             <div class="span10">
-                                <a class="address">+39 3347385621</a>
-                                <div></div>
-                                <a class="address">+32 497572284</a>
+                                <a class="address">+39 3347385621</a>                                
                             </div>
                         </div>
                     </li>
@@ -51,6 +49,7 @@
                             <div class="span10">
                                 <a class="address">Via Toso Montanari, 22</a>
                                 <div></div>
+                                @*<a class="address">@Resources.cap&nbsp;@Resources.bologna, @Resources.italy</a>*@
                                 <a class="address">@Resources.bologna, @Resources.italy</a>
                             </div>
                         </div>
@@ -63,7 +62,7 @@
 
             <div class="socialContainer">
                 <a href="https://www.facebook.com/mario.fornaroli"><img src="~/Content/img/icons/facebook.png" alt="facebook" /></a>
-                <a href="https://twitter.com/FornaroliMario"><img src="~/Content/img/icons/twitter.png" alt="twitter" /></a>
+                @*<a href="https://twitter.com/FornaroliMario"><img src="~/Content/img/icons/twitter.png" alt="twitter" /></a>*@
                 <a href="https://www.linkedin.com/in/mariofornaroli"><img src="~/Content/img/icons/linkedin.png" alt="linkedin" /></a>
             </div>
 
@@ -102,11 +101,11 @@
     <!-- end ABOUT ME -->
     <!-- MY EXPERTISE -->
     <section class="row-fluid my_expertise" id="my_expertise">
-        <aside class="span3 aside_el">
+        <aside class="span2 aside_el">
             <h2>@Resources.myExpertise</h2>
             @*<h5>skills that I’m<br /> proud of</h5>*@
         </aside>
-        <article class="span9 borderleft par_el">
+        <article class="span10 borderleft par_el">
 
             <section class="row-fluid">
                 <!-- Web expertise -->
@@ -114,14 +113,18 @@
                     <p>@Resources.myExpertise_Sentence_1</p>
                 </article>
                 <div class="span4 skill_level">
-                    <span class="labelMFO label_Web">AngularJs</span>
-                    <span class="labelMFO label_Web">Angular 2</span>
-                    <span class="labelMFO label_Web">Web API</span>
+                    <span class="labelMFO label_Web">React.js</span>
+                    <span class="labelMFO label_Web">Angular 2+</span>
+                    <span class="labelMFO label_Web">Redux/Hooks</span>
+                    <span class="labelMFO label_Web">Node.js Web API</span>
+                    <span class="labelMFO label_Web">.NET Web API</span>
                     <span class="labelMFO label_Web">ASP MVC</span>
+                    <span class="labelMFO label_Web">HTML5 - CSS3 - JS</span>
                     <span class="labelMFO label_Web">Entity Framework</span>
                     <span class="labelMFO label_Web">MS SQL</span>
+                    <span class="labelMFO label_Web">MongoDB</span>
+                    <span class="labelMFO label_Web">AngularJs</span>
                     <span class="labelMFO label_Web">KnockoutJs</span>
-                    <span class="labelMFO label_Web">HTML5 - CSS3 - JS</span>
                 </div>
             </section> <!-- /Web expertise -->
 
@@ -169,8 +172,8 @@
                     <p>@Resources.myExpertise_Sentence_4</p>
                 </article>
                 <div class="span4 skill_level skill_level_IDE">
-                    <span class="labelMFO label_IDE">Visual Studio</span>
                     <span class="labelMFO label_IDE">Visual Studio Code</span>
+                    <span class="labelMFO label_IDE">Visual Studio</span>
                     <span class="labelMFO label_IDE">Qt Creator</span>
                     <span class="labelMFO label_IDE">Embarcadero</span>
                 </div>
@@ -188,22 +191,36 @@
     <!-- end MY EXPERTISE -->
     <!-- EXPERIENCE -->
     <section class="row-fluid experience" id="experience">
-        <aside class="span3 aside_el">
+        <aside class="span2 aside_el">
             <h2>@Resources.experience</h2>
         </aside>
-        <div class="span9">
+        <div class="span10">
+            <!-- Sysdata -->
+            <div class="row-fluid">
+                <article class="span12  borderleft par_el in_spacing">
+                    <span class="period">2019 - @Resources.present</span>
+                    <span class="city_Experience">@Resources.bologna, @Resources.italy</span>
+                    <div class="bigspacing jobRole">
+                        <header>
+                            <h2>Sysdata</h2>
+                            <h3>@Resources.fullStackWebDeveloper</h3>
+                        </header>
+                        <p>@Resources.work_Sysdata1</p>
+                        <p>@Resources.work_Sysdata2</p>
+                    </div>
+                </article>
+            </div>
             <!-- Euris -->
             <div class="row-fluid">
                 <article class="span12  borderleft par_el in_spacing">
-                    <span class="period">2015 - @Resources.present</span>
+                    <span class="period">2015 - 2019</span>
                     <span class="city_Experience">@Resources.bologna, @Resources.italy</span>
                     <div class="bigspacing jobRole">
                         <header>
                             <h2>Euris</h2>
                             <h3>@Resources.fullStackWebDeveloper</h3>
                         </header>
-                        <p>@Resources.work_Euris1</p>
-                        <p>@Resources.work_Euris2</p>
+                        <p>@Resources.work_Euris1</p>                        
                     </div>
                 </article>
             </div>
@@ -275,11 +292,11 @@
     <!-- end EXPERIENCE -->
     <!-- EDUCATION -->
     <section class="row-fluid education" id="education">
-        <aside class="span3 aside_el">
+        <aside class="span2 aside_el">
             <h2>@Resources.education</h2>
             @*<h5>my college and<br /> high school</h5>*@
         </aside>
-        <div class="span9">
+        <div class="span10">
             <div class="row-fluid">
                 <article class="span12  borderleft par_el in_spacing">
                     <span class="period">2003 - 2009</span>
@@ -307,14 +324,13 @@
         </div>
     </section> <!-- /education -->
     <!-- end EDUCATION -->
-
     <!-- PORTFOLIO -->
     <section class="row-fluid portfolio" id="portfolio">
-        <aside class="span3 aside_el">
+        <aside class="span2 aside_el">
             <h2>@Resources.projects</h2>
             @*<h5>some of my<br /> best work</h5>*@
         </aside>
-        <div class="span9 borderleft">
+        <div class="span10 borderleft">
             <div class="galleryContainer">
 
                 <!-- Line 1 - Projects -->
@@ -833,11 +849,11 @@
     <!-- end PORTFOLIO -->
     <!-- BLOG -->
     <section class="row-fluid blog" id="blog">
-        <aside class="span3 aside_el">
+        <aside class="span2 aside_el">
             <h2>@Resources.otherSkills</h2>
             <h5>@Resources.languagesTtrainings<br /> @Resources.andCertificates</h5>
         </aside>
-        <div class="span9">
+        <div class="span10">
             <div class="row-fluid">
                 <article class="span12  borderleft par_el in_spacing">
                     <span class="period">@Resources.languages</span>

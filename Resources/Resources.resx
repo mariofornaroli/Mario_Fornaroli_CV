@@ -320,7 +320,7 @@
     <value>Master thesis on “Processing of Hyperspectral Remote Sensing data” at University of Extremadura, Spain  (supervisors Prof. P.Gamba from University of Pavia-Italy and Prof. A.Plaza from University of Extremadura-Spain).</value>
   </data>
   <data name="myExpertise_Sentence_1" xml:space="preserve">
-    <value>During my work experience I have developed various web applications, mainly working with the following technologies:  AngularJS and Angular 2, plus obviously Jquery-html5-css3-js, (frontend side) and .Net technologies, such as Web API/Asp MVC - Entity Framework – Microsoft Sql server (backend side).</value>
+    <value>During my work experience I have developed various web applications, mainly working with the following technologies: Reactjs (both with React only and with Redux+Saga, now moving to React Hooks + Context API), Angular 2+ and AngularJS, plus obviously Jquery-html5-css3-js, (frontend side) and .Net technologies, such as Web API/Asp MVC - Entity Framework, Node.js + Express – Microsoft Sql server and MongoDB (backend side).</value>
   </data>
   <data name="myExpertise_Sentence_2" xml:space="preserve">
     <value>In my first years I also developed Windows applications (mainly C# .Net with WPF), multi-platform applications (C++ Qt framework for Linux), often in the domain of cryptography and security, and I DLLs (C/C++ language) to communicate with external devices through API.</value>
@@ -466,13 +466,18 @@
   <data name="italy" xml:space="preserve">
     <value>Italy</value>
   </data>
+  <data name="work_Sysdata1" xml:space="preserve">
+    <value>I’ve been working as full-stack developer at the client premises. I’ve been involved in several projects mainly working with the following technologies: FRONTEND: Angular 8 and Reactjs (both with React only and with Redux+Saga, now willing to move to React Hooks + Context API), BACKEND: Node.js (Express and MongoDB).</value>
+  </data>
+  <data name="work_Sysdata2" xml:space="preserve">
+    <value>I do daily use (or used in previous projects) various other tool such as automated task-runners, framework to document and test API’s, versioning tool, etc.. I designed and prototyped mobile and web app using Adobe XD.</value>
+  </data>
   <data name="work_Euris1" xml:space="preserve">
     <value>I’ve been working as web developer in different projects, mainly in assurance and logistic distribution domain.
 I've developed web application in form of Single Page Application and we mainly use the following stack: mainly HTML5-CSS-Javascript, AngularJS, Angular 2 and JQuery (client side) and .Net Web API, Asp .NET MVC, Entity Framework and SQL Server (server side).</value>
   </data>
   <data name="work_Euris2" xml:space="preserve">
-    <value>The IDE I mainly use are Visual Studio and Visual Studio Code.
-I do daily use (or used in previous projects) various other tool such as automated task-runners, framework to document and test API’s, versioning tool, etc.. </value>
+    <value>The IDE I mainly use are Visual Studio and Visual Studio Code.</value>
   </data>
   <data name="elctrAndIctEngineeringTitle" xml:space="preserve">
     <value>Electronic and ICT Engineering</value>

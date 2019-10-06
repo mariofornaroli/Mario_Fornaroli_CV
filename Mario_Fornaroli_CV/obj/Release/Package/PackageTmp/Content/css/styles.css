@@ -59,12 +59,13 @@ ul, li {
 }
 
     .aside_el h2 {
-        font: 2.9em 'Arvo', serif; /* 29px/10 */
+        font: 2em 'Arvo', serif; /* 29px/10 */
         line-height: 0.8em;
         color: #464646;
         font-weight: normal;
         margin-bottom: 3px;
         margin-top: 0;
+        line-height: 1.3;
     }
 
     .aside_el h5 {
@@ -459,7 +460,7 @@ body {
 }
 
 #iconMobile, #iconLocation {
-    margin-top: 3px;
+    margin-top: 0px;
 }
 
 #iconMail {
@@ -507,7 +508,7 @@ body {
 
 .skill_level {
     margin-top: 5px;
-    padding: 0 12px 0 7px;
+    padding: 0;
 }
 
 .skill_level_IDE {
@@ -532,7 +533,7 @@ body {
 .labelMFO {
     display: inline;
     padding: .2em .6em .3em;
-    margin: 0 .6em 1em 0;
+    margin: 0 .3em 1em 0;
     font-size: 135%;
     line-height: 2em;
     font-weight: bolder;
@@ -1212,7 +1213,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
     .skill_level {
         margin-top: 10px;
-        padding: 0 18px 0 14px;
+        padding: 0 6px 0 6px;
     }
 
     .about_me {

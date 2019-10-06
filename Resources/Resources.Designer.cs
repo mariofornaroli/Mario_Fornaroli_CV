@@ -19,7 +19,7 @@ namespace Resources {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Resources {
@@ -718,7 +718,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to During my work experience I have developed various web applications, mainly working with the following technologies:  AngularJS and Angular 2, plus obviously Jquery-html5-css3-js, (frontend side) and .Net technologies, such as Web API/Asp MVC - Entity Framework – Microsoft Sql server (backend side)..
+        ///   Looks up a localized string similar to During my work experience I have developed various web applications, mainly working with the following technologies: Reactjs (both with React only and with Redux+Saga, now moving to React Hooks + Context API), Angular 2+ and AngularJS, plus obviously Jquery-html5-css3-js, (frontend side) and .Net technologies, such as Web API/Asp MVC - Entity Framework, Node.js + Express – Microsoft Sql server and MongoDB (backend side)..
         /// </summary>
         public static string myExpertise_Sentence_1 {
             get {
@@ -1322,8 +1322,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The IDE I mainly use are Visual Studio and Visual Studio Code.
-        ///I do daily use (or used in previous projects) various other tool such as automated task-runners, framework to document and test API’s, versioning tool, etc.. .
+        ///   Looks up a localized string similar to The IDE I mainly use are Visual Studio and Visual Studio Code..
         /// </summary>
         public static string work_Euris2 {
             get {
@@ -1346,6 +1345,24 @@ namespace Resources {
         public static string work_STM2 {
             get {
                 return ResourceManager.GetString("work_STM2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I’ve been working as full-stack developer at the client premises. I’ve been involved in several projects mainly working with the following technologies: FRONTEND: Angular 8 and Reactjs (both with React only and with Redux+Saga, now willing to move to React Hooks + Context API), BACKEND: Node.js (Express and MongoDB)..
+        /// </summary>
+        public static string work_Sysdata1 {
+            get {
+                return ResourceManager.GetString("work_Sysdata1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I do daily use (or used in previous projects) various other tool such as automated task-runners, framework to document and test API’s, versioning tool, etc.. I designed and prototyped mobile and web app using Adobe XD..
+        /// </summary>
+        public static string work_Sysdata2 {
+            get {
+                return ResourceManager.GetString("work_Sysdata2", resourceCulture);
             }
         }
         
