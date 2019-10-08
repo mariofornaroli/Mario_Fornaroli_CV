@@ -234,6 +234,7 @@
     <Content Include="Content\Pdf_CV\CV Ing. Mario Fornaroli.doc" />
     <None Include="Project_Readme.html" />
     <None Include="Properties\PublishProfiles\mariofornaroli-cv - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\mariofornaroli-cv - Web Deploy1.pubxml" />
     <None Include="Properties\PublishProfiles\mariofornarolicv %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\mariofornarolicv - FTP %283%29.pubxml" />
   </ItemGroup>
