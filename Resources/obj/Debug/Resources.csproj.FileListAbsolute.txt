@@ -68,7 +68,6 @@ E:\Mario\Projects\Mario_Fornaroli_CV\Mario_Fornaroli_CV\Resources\obj\Debug\Reso
 C:\mfo\personal\projects\Mario_Fornaroli_CV\Resources\bin\Debug\Resources.dll
 C:\mfo\personal\projects\Mario_Fornaroli_CV\Resources\bin\Debug\Resources.pdb
 C:\mfo\personal\projects\Mario_Fornaroli_CV\Resources\bin\Debug\it\Resources.resources.dll
-C:\mfo\personal\projects\Mario_Fornaroli_CV\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
 C:\mfo\personal\projects\Mario_Fornaroli_CV\Resources\obj\Debug\Resources.Resources.resources
 C:\mfo\personal\projects\Mario_Fornaroli_CV\Resources\obj\Debug\Resources.Resources.it.resources
 C:\mfo\personal\projects\Mario_Fornaroli_CV\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
