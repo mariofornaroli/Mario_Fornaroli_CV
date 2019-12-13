@@ -25,6 +25,12 @@ _UpgradeReport_Files/
 bin/
 obj/
 TestResults/
+packages/
+Resources/
+publish profile/
+Mario_Fornaroli_CV/bin/
+Mario_Fornaroli_CV/obj/
+Mario_Fornaroli_CV/TestResults/
 ###################
 # Web publish log #
 ###################
@@ -73,3 +79,4 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+*.vs
