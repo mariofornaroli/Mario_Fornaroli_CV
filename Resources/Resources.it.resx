@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="aboutMe" xml:space="preserve">
+    <value>Presentazione</value>
+    <comment>Presentazione</comment>
+  </data>
+  <data name="aerospaceDomain" xml:space="preserve">
+    <value>Settore aerospaziale</value>
+  </data>
+  <data name="andCertificates" xml:space="preserve">
+    <value>e certificazioni</value>
+  </data>
+  <data name="bankingDomain" xml:space="preserve">
+    <value>Software per le banche</value>
+  </data>
+  <data name="bilingual" xml:space="preserve">
+    <value>Bilingue</value>
+  </data>
+  <data name="contact" xml:space="preserve">
+    <value>Contattami</value>
+    <comment>Contattami</comment>
+  </data>
+  <data name="contactMe" xml:space="preserve">
+    <value>Contattami</value>
+  </data>
+  <data name="diplomaIT" xml:space="preserve">
+    <value>Perito Informatico</value>
+  </data>
+  <data name="downloadAsPDF" xml:space="preserve">
+    <value>Download PDF</value>
+  </data>
+  <data name="education" xml:space="preserve">
+    <value>Istruzione</value>
+    <comment>Istruzione</comment>
+  </data>
+  <data name="emailAddress" xml:space="preserve">
+    <value>Indirizzo Email</value>
+  </data>
+  <data name="english" xml:space="preserve">
+    <value>Inglese</value>
+  </data>
+  <data name="englishKnowledgeDescription" xml:space="preserve">
+    <value>Lavoro da anni in un ambiente multiculturale dove l’Inglese è la lingua comune. Inoltre da quando ho 15 anni, fino alla fine dell’università ho trascorso periodi estivi di vacanze-studio in Irlanda e Inghilterra.</value>
+  </data>
+  <data name="experience" xml:space="preserve">
+    <value>Lavori</value>
+    <comment>Lavori</comment>
+  </data>
+  <data name="fluent" xml:space="preserve">
+    <value>Fluente</value>
+  </data>
+  <data name="french" xml:space="preserve">
+    <value>Francese</value>
+  </data>
+  <data name="frenchKnowledgeDescription" xml:space="preserve">
+    <value>Ho vissuto in Francia e in Belgio per un totale di 6 anni. Avendo una moglie belga francofona, lo parlo quotidianamente.</value>
+  </data>
+  <data name="good" xml:space="preserve">
+    <value>Buono</value>
+  </data>
+  <data name="ICTConsultant" xml:space="preserve">
+    <value>Consulente ICT</value>
+  </data>
+  <data name="italian" xml:space="preserve">
+    <value>Italiano</value>
+  </data>
+  <data name="itisVoltaLodi" xml:space="preserve">
+    <value>I.T.I.S. A.Volta a Lodi, Italia</value>
+  </data>
+  <data name="languages" xml:space="preserve">
+    <value>Languages</value>
+  </data>
+  <data name="languagesTtrainings" xml:space="preserve">
+    <value>lingue, formazioni</value>
+  </data>
+  <data name="masterAndBachlorDegree" xml:space="preserve">
+    <value>Laurea Triennale e Specialistica (110/110 e Lode)</value>
+  </data>
+  <data name="message" xml:space="preserve">
+    <value>Messaggio</value>
+  </data>
+  <data name="modulesAndLibraries" xml:space="preserve">
+    <value>Sviluppo di librerie</value>
+  </data>
+  <data name="motherTongue" xml:space="preserve">
+    <value>Madre lingua</value>
+  </data>
+  <data name="myExpertise" xml:space="preserve">
+    <value>Competenze</value>
+    <comment>Competenze</comment>
+  </data>
+  <data name="name" xml:space="preserve">
+    <value>Nome</value>
+  </data>
+  <data name="other" xml:space="preserve">
+    <value>Altri dati</value>
+    <comment>Altri dati</comment>
+  </data>
+  <data name="otherSkills" xml:space="preserve">
+    <value>Altre Competenze</value>
+  </data>
+  <data name="otherTechnologies" xml:space="preserve">
+    <value>Altre tecnologie</value>
+  </data>
+  <data name="pesentingSentence" xml:space="preserve">
+    <value>Mi occupo di sviluppo software e mi appassiona tutto cio' che riguarda la programmazione di software per Web e Mobile.</value>
+  </data>
+  <data name="present" xml:space="preserve">
+    <value>Attualmente</value>
+  </data>
+  <data name="projects" xml:space="preserve">
+    <value>Progetti</value>
+    <comment>Progetti</comment>
+  </data>
+  <data name="projectsWithOtherLanguages" xml:space="preserve">
+    <value>Progetti con altri linguaggi</value>
+  </data>
+  <data name="PythonInDotNet" xml:space="preserve">
+    <value>Python integrato in .Net</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>Invia</value>
+  </data>
+  <data name="softwareDeveloper" xml:space="preserve">
+    <value>Sviluppatore Software</value>
+  </data>
+  <data name="softwareDeveloperCapital" xml:space="preserve">
+    <value>PROGRAMMATORE SOFTWARE</value>
+  </data>
+  <data name="spanish" xml:space="preserve">
+    <value>Spagnolo</value>
+  </data>
+  <data name="spanishKnowledgeDescription" xml:space="preserve">
+    <value>Ho trascorso l’Erasmus in Spagna (8 mesi, nel 2009), dove parlavo spagnolo ed ho potuto conseguire il diploma DELE (Diploma de Español como Lengua Extranjera).</value>
+  </data>
+  <data name="teacherEBook" xml:space="preserve">
+    <value>Registro per professori</value>
+  </data>
+  <data name="universityOfPavia" xml:space="preserve">
+    <value>Universita' degli Studi di Pavia, Italia</value>
+  </data>
+  <data name="webDeveloper" xml:space="preserve">
+    <value>Programmatore Web</value>
+  </data>
+  <data name="WindowsApplications" xml:space="preserve">
+    <value>Applicazioni Windows</value>
+  </data>
+  <data name="Belgium" xml:space="preserve">
+    <value>Belgio</value>
+  </data>
+  <data name="Brussels" xml:space="preserve">
+    <value>Bruxelles</value>
+  </data>
+  <data name="certificates" xml:space="preserve">
+    <value>Certificazioni</value>
+  </data>
+  <data name="cSharpFoundamentals" xml:space="preserve">
+    <value>Programming in C#</value>
+  </data>
+  <data name="ISTQBTesterCertificate" xml:space="preserve">
+    <value>ISTQB Software Tester</value>
+  </data>
+  <data name="January" xml:space="preserve">
+    <value>Gennaio</value>
+  </data>
+  <data name="March" xml:space="preserve">
+    <value>Marzo</value>
+  </data>
+  <data name="onlineTrainings" xml:space="preserve">
+    <value>Formazioni Online</value>
+  </data>
+  <data name="trainingsAnd" xml:space="preserve">
+    <value>Formazioni e</value>
+  </data>
+  <data name="leclNotesWebApplication" xml:space="preserve">
+    <value>LeclNotes Applicazione Web</value>
+  </data>
+  <data name="CandCppDllDevelopment" xml:space="preserve">
+    <value>Sviluppo di DLL C/C++</value>
+  </data>
+  <data name="cSharpDotNetApplications" xml:space="preserve">
+    <value>Applicazioni C# .Net</value>
+  </data>
+  <data name="ironPythonForTesting" xml:space="preserve">
+    <value>IronPython in .Net per applicazione di test</value>
+  </data>
+  <data name="visitIt" xml:space="preserve">
+    <value>Visita l'applicazione</value>
+  </data>
+  <data name="aboutMe_Sentence_1" xml:space="preserve">
+    <value>Mi sono laureato in Ingegneria Elettronica e delle Telecomunicazioni all’Università di Pavia nel 2009. Alle scuole superiori mi sono diplomato come Perito informatico nel 2003.</value>
+  </data>
+  <data name="aboutMe_Sentence_2" xml:space="preserve">
+    <value>Ho un forte background in informatica avendo sempre lavorato in quel settore e sviluppato applicazioni per progetti di diverso tipo.</value>
+  </data>
+  <data name="aboutMe_Sentence_3" xml:space="preserve">
+    <value>Lavoro come sviluppatore software da 8 anni ed in particolare negli ultimi 5 come svilupatore web e mobile. Ho lavorato 1.5 anni a Toulouse, 4 anni a Bruxelles e da 2 anni vivo e lavoro a Bologna.</value>
+  </data>
+  <data name="diplomaDescription" xml:space="preserve">
+    <value>Perito informatico.</value>
+  </data>
+  <data name="masterThesisDescription" xml:space="preserve">
+    <value>Tesi specialistica dal titolo “Processing of Hyperspectral Remote Sensing data” svolta all’Università di Extremadura, Spagna con la supervisione del Prof. P.Gamba dell’Università di Pavia, Italia e del Prof. A.Plaza dell’Università di Extremadura, Spagna.</value>
+  </data>
+  <data name="myExpertise_Sentence_1" xml:space="preserve">
+    <value>Nella mia carriera lavorativa ho sviluppato diverse applicazioni web, lavorando principalmente con le seguenti tecnologie: AngularJS, Angular 2, e ovviamente Jquery-html5-css3-js, (lato frontend) e tecnologie .Net, come Web API/Asp MVC - Entity Framework – Microsoft Sql server  (lato backend).</value>
+  </data>
+  <data name="myExpertise_Sentence_2" xml:space="preserve">
+    <value>Nei primi anni ho anche sviluppato applicazioni desktop (principalmente con C# WPF), applicazioni multi-platform (C++ Qt framework per Linux), spesso nel campo della sicurezza e della crittografia, e DLLs (linguaggio C/C++) per comunicare con dispositivi esterni attraverso API.</value>
+  </data>
+  <data name="myExpertise_Sentence_3" xml:space="preserve">
+    <value>Ho anche sviluppato DLLs (linguaggio C/C++) per comunicare con dispositivi esterni attraverso API. Ho sviluppato due di moduli (linguaggio C) da installare in un HSM (Hardware Security Module) nel dominio della crittografia per applicazioni di autentificazione e sicurezza.</value>
+  </data>
+  <data name="myExpertise_Sentence_4" xml:space="preserve">
+    <value>Mi piace molto lavorare con Visual Studio e Visual Studio Code! Sono i miei IDE preferiti. Ho anche lavorato in altri progetti con Qt Creator e Borland/Embarcadero.</value>
+  </data>
+  <data name="myExpertise_Sentence_5a" xml:space="preserve">
+    <value>Il mio lavoro mi appassiona!</value>
+  </data>
+  <data name="myExpertise_Sentence_5b" xml:space="preserve">
+    <value>Seguo costantemente dei corsi di formazione. Di solito online, la sera dopo il lavoro.</value>
+  </data>
+  <data name="training_online_1" xml:space="preserve">
+    <value>Seguo costantemente formazioni, in prevalenza online. Di solito le seguo la sera dopo la giornata lavorativa.</value>
+  </data>
+  <data name="training_online_2" xml:space="preserve">
+    <value>Tra i siti di formazione online che seguo con più frequenza, c’è of Microsoft Virtual Academy. Questa piattaforma organizza un sistema di formazione a punti, in cui sono classificato tra i primi 100 del mio Paese. Altri siti con i quali ho seguito e seguo formazioni ci sono Coursera e Udemy.</value>
+  </data>
+  <data name="work_CallistoSpace1" xml:space="preserve">
+    <value>Ho lavorato per l’Agenzia Spaziale Europea (ESA) nell’ambito di uno studio di fattibilita’ per costruire una nuova stazione di antenne per missioni spaziali di tipo Deep Space. In questo progetto ho realizzato due software.</value>
+  </data>
+  <data name="work_CallistoSpace2" xml:space="preserve">
+    <value>Il primo applicativo consiste in un sistema di monitoring di diversi dispositivi esterni attraverso TCP/IT, porta seriale e connessione USB (linguaggio LabView).</value>
+  </data>
+  <data name="work_CallistoSpace3" xml:space="preserve">
+    <value>Il secondo software è un simulatore realizzato in C++ per simulare e correggere i ritardi tra i diversi segnali input e output in un array di antenne TX/RX.</value>
+  </data>
+  <data name="work_CW1" xml:space="preserve">
+    <value>Ho sviluppato software nel settore bancario. In particolare mi sono occupato migrazione dei dati clienti tra due database. I linguaggi utilizzati sono SQL e Cobol.</value>
+  </data>
+  <data name="work_CW2" xml:space="preserve">
+    <value>Ho lavorato presso il cliente, la banca Crédit Agricole.</value>
+  </data>
+  <data name="work_STM1" xml:space="preserve">
+    <value>Ho lavorato come sviluppatore software nel dipartimento Software Tool Department. Ho programmato applicazioni web e desktop per clienti interni ed esterni, principalmente nel settore della sicurezza e della crittografia.</value>
+  </data>
+  <data name="work_STM2" xml:space="preserve">
+    <value>Ho anche sviluppato applicazioni Windows in .Net. Tra gli altri progetti realizzati vi è lo sviluppo di DLLs a moduli in C/C++. Sono anche stato coinvolto in progetti in cui i linguaggi utilizzati erano Delphi, Python ed il framework Qt.</value>
+  </data>
+  <data name="work_WebFreelance1" xml:space="preserve">
+    <value>Essendo appassionato di sviluppo web, ho deciso di sviluppare applicazioni web e mobile come seconda attività, quando possibile :-).</value>
+  </data>
+  <data name="work_WebFreelance2" xml:space="preserve">
+    <value>Ho principalmente utilizzato tecnologia Asp .NET MVC, Entity Framework and SQL Server (lato server), e HTML5-CSS-Javascript, AngularJS e JQuery (lato cliente). </value>
+  </data>
+  <data name="close" xml:space="preserve">
+    <value>Chiudi</value>
+  </data>
+  <data name="cSharpAppDescription1" xml:space="preserve">
+    <value>Ho sviluppato applicazioni per diversi settori. Tra gli altri: crittografia, comunicazione con dispositivi esterni, simulatori di chip, applicazioni di stampa e applicazioni per testare altri prodotti.</value>
+  </data>
+  <data name="cSharpAppDescription2" xml:space="preserve">
+    <value>Per applicazioni desktop, ho principalmente utilizzato linguaggio C# .Net con WPF, pattern MVVM, utilizzando componenti DevExpress dove necessario.</value>
+  </data>
+  <data name="cSharpAppDescription3" xml:space="preserve">
+    <value>I pacchetti pe l’installazione sono creati attraverso AdvancedInstaller software.</value>
+  </data>
+  <data name="IronPythonDescription1" xml:space="preserve">
+    <value>Insieme al team di sviluppo abbiamo creato un sorta di IDE per sviluppare test script al fine di testare le funzionalità di altri dispositivi. La lista dei protocolli di comunicazione e dei dispositivi supportati è vasta, principalmente nel settore delle smartcard e dei microchip.</value>
+  </data>
+  <data name="IronPythonDescription2" xml:space="preserve">
+    <value>L’ambiente è realizzato con C# WPF, componenti DevExpress. IronPython è utilizzato per integrare il linguaggio di script Python (utilizzato per i test) in C#.  Il framework di log utilizzato è NLog.</value>
+  </data>
+  <data name="IronPythonDescription3" xml:space="preserve">
+    <value>AdvancedInstaller è utilizzato per realizzare il pacchetto d’installazione.</value>
+  </data>
+  <data name="leclNotesDescription" xml:space="preserve">
+    <value>LeclNotes rappresenta il registro dei voti di un insegnante, per più classi. Permette di gestire la lista delle classi, dei corsi, degli studenti e dei voti permettendo di calcolare le medi per completare un pagellino. L'applicazione può essere facilmente estesa in modo da essere introdotta in una scuola in cui ogni professore accede attraverso il proprio conto.</value>
+  </data>
+  <data name="CandCppProjectsDescription1" xml:space="preserve">
+    <value>Ho sviluppato DLLs (linguaggio C/C++) per comunicare con dispositivi esterni attraverso API. Ho sviluppato due di moduli (linguaggio C) da installare in un HSM (Hardware Security Module) nel dominio della crittografia per applicazioni di autentificazione e sicurezza.</value>
+  </data>
+  <data name="CandCppProjectsDescription2" xml:space="preserve">
+    <value>Nel settore aerospaziale ho sviluppato un simulatore realizzato in C++ per simulare e correggere i ritardi tra i diversi segnali input e output in un array di antenne TX/RX.</value>
+  </data>
+  <data name="CandCppProjectsDescription3" xml:space="preserve">
+    <value>Utilizzando il framework Qt, ho programmato un’applicazione per Windows e Linux (CentOS) per la gestione di chiavi di crittografia.</value>
+  </data>
+  <data name="otherProjectDescription1" xml:space="preserve">
+    <value>Un utilizzo importante del linguaggio SQL nell’ambito di un progetto di migrazione di dati da un database ad un altro nel settore bancario.</value>
+  </data>
+  <data name="otherProjectDescription2" xml:space="preserve">
+    <value>Ristrutturazione di alcuni applicativi già esistenti, realizzati in linguaggio Delphi, per meglio attenersi alla Programmazione Orientata agli Oggetti (OOP).</value>
+  </data>
+  <data name="otherProjectDescription3" xml:space="preserve">
+    <value>Altri piccole applicazioni sviluppate in linguaggio Delphi.</value>
+  </data>
+  <data name="otherProjectDescription4" xml:space="preserve">
+    <value>Software LabView per monitorare dispositivi esterni attraverso TCP/IP, porta seriale o USB.</value>
+  </data>
+  <data name="otherProjectSentence" xml:space="preserve">
+    <value>Altri progetti sviluppati con tecnologie non citate in precedenza:</value>
+  </data>
+  <data name="lang" xml:space="preserve">
+    <value>Italiano</value>
+  </data>
+  <data name="otherProjectDescription5" xml:space="preserve">
+    <value>All'università ho sviluppato un paio di progetti utilizzando Matlab e Assembler MIPS.</value>
+  </data>
+  <data name="mailTxFailure" xml:space="preserve">
+    <value>Si è verificato un errore. Verifica che tutti i campi siano correttamente completati e prova a ritrasmettere il messaggio. &lt;br/&gt;In alternativa, contattami direttamente all’indirizzo &lt;a href= \"mailto:mario.fornaroli@yahoo.it\" &gt;mario.fornaroli@yahoo.it&lt;/a&gt;</value>
+  </data>
+  <data name="mailTxSuccess" xml:space="preserve">
+    <value>Messaggio inviato correttamente, grazie.</value>
+  </data>
+  <data name="cryptoPlayerDescription1" xml:space="preserve">
+    <value>CryptoPlayer e' una calcolatrice crittografica. Permette di eseguire diverse operazioni di crittografia. Algoritmi simmetrici ed asimmetrici. Funzioni di hashing. Generazione di chiavi RSA. Parsing, validazione e modifica dei certificati SSL.</value>
+  </data>
+  <data name="cryptoPlayerDescription2" xml:space="preserve">
+    <value>Questa applicazione web e' realizzata, lato front-end, con AngularJS e Bootstrap e lato back-end con .NET Web API.</value>
+  </data>
+  <data name="cryptoPlayerShortTitle" xml:space="preserve">
+    <value>Cryptographic Calculator</value>
+  </data>
+  <data name="cryptoPlayerWebApplication" xml:space="preserve">
+    <value>CryptoPlayer - applicazione web</value>
+  </data>
+  <data name="brusselsBelgium" xml:space="preserve">
+    <value>Bruxelles, Belgio</value>
+  </data>
+  <data name="cSharpEgiliaTraining" xml:space="preserve">
+    <value>.Net and C# Fundamentals Training</value>
+  </data>
+  <data name="cSharpExamDate" xml:space="preserve">
+    <value>Date dell'esame:  28/04/2015</value>
+  </data>
+  <data name="cSharpExamPassed" xml:space="preserve">
+    <value>TEST DI CERTIFICAZIONE SUPERATO</value>
+  </data>
+  <data name="bologna" xml:space="preserve">
+    <value>Bologna</value>
+  </data>
+  <data name="fullStackWebDeveloper" xml:space="preserve">
+    <value>Full Stack Web Developer</value>
+  </data>
+  <data name="fullStackWebDeveloperCapital" xml:space="preserve">
+    <value>FULL STACK WEB DEVELOPER</value>
+  </data>
+  <data name="italy" xml:space="preserve">
+    <value>Italia</value>
+  </data>
+  <data name="work_Sysdata1" xml:space="preserve">
+    <value>TBF</value>
+  </data>
+  <data name="work_Sysdata2" xml:space="preserve">
+    <value>TBF</value>
+  </data>
+  <data name="work_Euris1" xml:space="preserve">
+    <value>Lavoro come web developer in diversi progetti, soprattutto per applicazioni web nel campo delle assicurazioni e della logistica.
+Sviluppio in team applicazioni web di tipo Single Page Application utilizzando principalmente spesso il seguente stack tecnologico: principalmente HTML5-CSS-Javascript, AngularJS, Angular 2 e JQuery (lato cliente) e .Net Web API, Asp .NET MVC, Entity Framework and SQL Server (lato server).</value>
+  </data>
+  <data name="work_Euris2" xml:space="preserve">
+    <value>Gli IDE che utilizzo sono Visual Studio e Visual Studio Code.
+Ovviamente nel quotidiano utilizzo una serie di altri strumenti come strumenti di automatizzazione dei task (ex.Gulp), Framework per documentare e testare le web API(ex.Swagger), sistemi di versioning (ex.TFS, GIT), etc... nella sezione progetti vi è una visualizzazione più esaustiva dei differenti strumenti che utilizzo nei vari progetti.</value>
+  </data>
+  <data name="elctrAndIctEngineeringTitle" xml:space="preserve">
+    <value>Ingegneria Elettronica e delle Telecomunicazioni</value>
+  </data>
+  <data name="chTitle" xml:space="preserve">
+    <value>AngularJs / KnockoutJs + ASP MVC + WCF (dominio assicurazioni)</value>
+  </data>
+  <data name="porTitle" xml:space="preserve">
+    <value>AngularJs + ASP MVC + Web API  - Dominio logistica</value>
+  </data>
+  <data name="projectChDescription1" xml:space="preserve">
+    <value>.NET Asp MVC</value>
+  </data>
+  <data name="projectChDescription2" xml:space="preserve">
+    <value>Front end sviluppato con AngularJs / KnockoutJs + Jquery (più ovviamente HTML5-CSS3-JS ed altre librerie js popolari)</value>
+  </data>
+  <data name="projectChDescription3" xml:space="preserve">
+    <value>Servizi esposti attraverso WCF</value>
+  </data>
+  <data name="projectChDescription4" xml:space="preserve">
+    <value>MS SQL Server db utilizzato sia con Entity Framework che direttamente con ADO .NET (stored procedure e comandi sql da codice)</value>
+  </data>
+  <data name="projectChSentence" xml:space="preserve">
+    <value>Questa web app è un portale di servizi utilizzato da diverse agenzie assicurative in Gran Bretagna. Utilizza le seguenti tecnologie:</value>
+  </data>
+  <data name="projectsCh" xml:space="preserve">
+    <value>Portale di servizi per agenzie assicurative</value>
+  </data>
+  <data name="projectsPor" xml:space="preserve">
+    <value>Portale per la gestione dei prodotti di una logistica</value>
+  </data>
+  <data name="projectsPorDescription1" xml:space="preserve">
+    <value>AngularJs front end  (con ovviamente HTML5-CSS3-JS ed altre librerie js popolari)</value>
+  </data>
+  <data name="projectsPorDescription2" xml:space="preserve">
+    <value>.NET Web API per l'esposizione dei servizi web</value>
+  </data>
+  <data name="projectsPorDescription3" xml:space="preserve">
+    <value>MS SQL Server db con Entity Framework</value>
+  </data>
+  <data name="projectsPorSentence" xml:space="preserve">
+    <value>Questa web app è un portale per la gestione dei prodotti di una logistica.  Utilizza le seguenti tecnologie:</value>
+  </data>
+  <data name="projectsH" xml:space="preserve">
+    <value>Portale per l'invio online postale di documenti e raccomandate</value>
+  </data>
+  <data name="projectsHSentence" xml:space="preserve">
+    <value>Questa web app è un portale per l'automatizzazione dell'invio postale di documenti e raccomandate tramite servizi online.  Utilizza le seguenti tecnologie:</value>
+  </data>
+  <data name="projectsPorMob" xml:space="preserve">
+    <value>Tablet and Smartphone Android app per logistica</value>
+  </data>
+  <data name="hTitle" xml:space="preserve">
+    <value>AngularJs + Web API</value>
+  </data>
+  <data name="porMobTitle" xml:space="preserve">
+    <value>Applicazione Cordova Android e potenzialmente Ios - Dominio logistica</value>
+  </data>
+  <data name="projectsHDescription4" xml:space="preserve">
+    <value>UX realizzata da un'azienda terza - Material Design</value>
+  </data>
+  <data name="projectsPorMobDescription4" xml:space="preserve">
+    <value>Funzionamento Online e Offline</value>
+  </data>
+  <data name="projectsPorMobDescription5" xml:space="preserve">
+    <value>Vari Cordova Plugins (digital signature, camera, file system, white-list, etc...)</value>
+  </data>
+  <data name="projectsPorMobSentence" xml:space="preserve">
+    <value>Mobile app per la gestione dei prodotti di una logistica.  Utilizza le seguenti tecnologie:</value>
+  </data>
+  <data name="myExpertise_Sentence_Mobile" xml:space="preserve">
+    <value>Ho avuto l'opportunità di sviluppare applicazioni mobile, principalmente per Android. Avendo un background web-developer, la scelta naturale è stata di utilizzare una tecnologia multi-platform web-based, Cordova con il supporto di Ionic (utilizzando ovviamente i molti plugin che permettono di implementare le funzionalità native nelle varie piattaforme).</value>
+  </data>
+  <data name="paxMobTitle" xml:space="preserve">
+    <value>Applicazione Cordova Android e potenzialmente Ios - Dominio librerie e negozi</value>
+  </data>
+  <data name="projectsPaxMobSentence" xml:space="preserve">
+    <value>App per la libreria PAX (Liegi - Belgio). Presenta diverse sezioni della libreria in contatto diretto col database ed il sito web della libreria stessa (best-sellers, eventi, suggerimenti, notifiche, motore di ricerca libri, ecc..)</value>
+  </data>
+  <data name="projectsPorMobIonicAssetns1" xml:space="preserve">
+    <value>Ionic Framework</value>
+  </data>
+  <data name="projectsPorMobNotifications" xml:space="preserve">
+    <value>Push Notifications</value>
+  </data>
+  <data name="projectsPorMobDescription4b" xml:space="preserve">
+    <value>Ionic Material</value>
+  </data>
+</root>
