@@ -150,6 +150,8 @@
     <Content Include="Content\img\3.jpg" />
     <Content Include="Content\img\And_icon.png" />
     <Content Include="Content\img\Angular_and_dotNet.png" />
+    <Content Include="Content\img\Ang_and_Api_Industry40.png" />
+    <Content Include="Content\img\Ang_and_Node_Mongo.png" />
     <Content Include="Content\img\body-bg%402x.png" />
     <Content Include="Content\img\body-bg.png" />
     <Content Include="Content\img\ch_ex1.png" />
@@ -191,6 +193,9 @@
     <Content Include="Content\img\pax_app.png" />
     <Content Include="Content\img\P_AllDocs_And_Buttons.png" />
     <Content Include="Content\img\p_mob.jpg" />
+    <Content Include="Content\img\React_and_PowerBI.png" />
+    <Content Include="Content\img\React_Hooks_and_Node_Mongo.png" />
+    <Content Include="Content\img\React_Redux_and_Node_Mongo.png" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\fontello\config.json" />
