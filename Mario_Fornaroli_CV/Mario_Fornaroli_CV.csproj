@@ -168,6 +168,8 @@
     <Content Include="Content\img\form-bg.png" />
     <Content Include="Content\img\icons\facebook%40x2.png" />
     <Content Include="Content\img\icons\facebook.png" />
+    <Content Include="Content\img\icons\github%40x2.png" />
+    <Content Include="Content\img\icons\github.png" />
     <Content Include="Content\img\icons\google-plus%40x2.png" />
     <Content Include="Content\img\icons\google-plus.png" />
     <Content Include="Content\img\icons\linkedin%40x2.png" />
@@ -271,7 +273,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>55122</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:45124/</IISUrl>
+          <IISUrl>http://localhost:45125/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
